@@ -1,0 +1,116 @@
+<style>
+    body{
+        background-color:rgb(244, 245, 247);
+    }
+.help__side {
+  height: 150px;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 300px;
+  right: 0;
+  background-color: rgb(252, 231, 231);
+  overflow-x: hidden;
+  transition: 0.5s;
+  
+}
+
+
+
+.help__side .help__close__btn {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 36px;
+  margin-right: 170px;
+  color: rgb(245, 243, 243);
+  padding-left: 2px;
+}
+
+#help_main {
+  transition: margin-left .5s;
+  padding-top: 300px;
+    float: right;
+}
+.help__side a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 20px;
+  background-color: black;
+  display: block;
+  transition: 0.3s;
+  border-radius: 20px;
+  color: blue
+}
+
+.help__side a:hover {
+  background-color: rgb(63, 43, 43);
+}
+
+ 
+.help__btn {
+  background-color: white;
+  border: none;
+  height: 120px;
+  width: 120px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 20%;
+}
+
+.help__logo{
+    height: 50px;
+    width: 50px;
+}
+.help__style{
+padding-left: 30px;
+}
+
+.call_logo{
+    height: 30px;
+    width: 30px;
+    float: left;
+    padding: 5px;
+    margin: 5px;
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="help__side">
+  <a href="javascript:void(0)" class="help__close__btn" onclick="closeNav()">&times;</a>
+    <div class="help__style">
+        <img class="call_logo" src="https://www.flaticon.com/svg/vstatic/svg/455/455705.svg?token=exp=1612353591~hmac=b0b3765d9c6f84f245c482139f14b020" alt="call">
+        <p>Call Us now 7070476900 <br>
+        Our Experts Will Guide You</p>
+    </div>
+    <div>
+        <img class="call_logo" src="https://www.flaticon.com/svg/vstatic/svg/2948/2948253.svg?token=exp=1612353913~hmac=1b4b89aefd88ddd7f2e2c63716f08fca" alt="location">
+        <a style="background-color: white;" href="">Find Your Nearest Studio</a>
+    </div>
+</div>
+
+<div id="help_main">
+
+  <button  class="help__btn"  onclick="openNav()">
+    <img class="help__logo" src="https://www.flaticon.com/svg/vstatic/svg/1828/1828919.svg?token=exp=1612350078~hmac=aba9b02bf6b818b2de40d9cec0c99b47" alt="">Need help Buying?</button>
+</div>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "280px";
+  document.getElementById("main").style.marginLeft = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+  document.getElementById("main").style.marginLeft= "0";
+}
+</script>
+   
+</body>
+</html> 
+
+</body>
+</html>
