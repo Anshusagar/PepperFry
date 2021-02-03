@@ -6,13 +6,84 @@
     <title>Document</title>
     <link rel="stylesheet" type="text/css"href="css/footer.css">
     <link rel="stylesheet" type="text/css"href="css/index.css">
-
 </head>
 <body>
+    
+<button class="btn"><i class="fa fa-folder"></i> Help</button>
+    
+        <div class="style_101">
+            <div class="pick__more">
+                <h4>STYLE 101</h5>
+                <h5 class="color">Whispered Words Of Wisdom</h6>
+            </div>
+            <div >
+                <button class="button" style="float: left;" onclick="plusDivs(-1)">&#10094;</button>
+                <button class="button" style="float: right;" onclick="plusDivs(1)">&#10095;</button>
+                <div style="margin-left: 6%;;">
+                    <img class="myslide" src="https://ii1.pepperfry.com/media/wysiwyg/banners/Contemporary_27082019.jpg" alt="Studio">
+                </div>
+                <div>
+                    <img class="myslide" src="https://ii2.pepperfry.com/media/wysiwyg/banners/modern_27082019.jpg" alt="BUY ON PHONE">
+                </div>
+                <div>
+                    <img class="myslide" src="https://ii3.pepperfry.com/media/wysiwyg/banners/midcentury_27082019.jpg" alt="BUY ON PHONE">
+                </div>
+                <div>
+                    <img class="myslide" src="https://ii1.pepperfry.com/media/wysiwyg/banners/industrial_27082019.jpg" alt="BUY ON PHONE">
+                </div>
+                <!-- <div>
+                    <img class="myslide hidden" src="https://ii3.pepperfry.com/media/wysiwyg/banners/midcentury_27082019.jpg" alt="BUY ON PHONE">
+                </div>
+                <div>
+                    <img class="myslide hidden" src="https://ii1.pepperfry.com/media/wysiwyg/banners/industrial_27082019.jpg" alt="BUY ON PHONE">
+                </div> -->
+            
+            
+            </div>
+        </div>
+
+        <div class="pick__our__brain">
+            <div class="pick__more">
+                <h4>PICK OUR BRAIN</h5>
+                <h5 class="color">Anyway You'd Like To                </h6>
+            </div>
+            <div>
+                <div style="margin-left: 8%;;">
+                    <div>
+                        <img src="https://ii1.pepperfry.com/media/wysiwyg/banners/hp-consulting-sol-find-a-studio-img-18082020.jpg" alt="Studio">
+                    </div>
+                    <div>
+                        <h4>FIND A STUDIO</h4>
+                        <p class="color">Walk In to your Nearest Studio Pepperfry</p>
+                    </div>
+                </div>
+                <div>
+                    <div>
+                        <img src="https://ii2.pepperfry.com/media/wysiwyg/banners/hp-consulting-sol-by-on-phone-img-18082020.jpg" alt="BUY ON PHONE">
+                    </div>
+                    <div>
+                        <h4>BUY ON PHONE</h4>
+                        <p class="color">Talk To Our Experts for a Free Consultation                        </p>
+                    </div>
+                </div>
+                <div>
+                    <div>
+                        <img src="https://ii3.pepperfry.com/media/wysiwyg/banners/hp-consulting-sol-modular-solutions-img-18082020.jpg" alt="MODULAR FURNITURE">
+                    </div>
+                    <div>
+                        <h4>MODULAR FURNITURE</h4>
+                        <p class="color">Get Customized Modular Kitchens and Wardrobe                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="empty__div"></div>
+
         <div class="main__pick_more">
             <div class="pick__more">
-                <h5>PACK MORE PUNCH</h5>
-                <h6>More Power To Your Elbow</h6>
+                <h4>PACK MORE PUNCH</h5>
+                <h5 class="color">More Power To Your Elbow</h6>
             </div>
             <div class="main__div__items">
                     <div class= "long__div ">
@@ -114,13 +185,13 @@
 
         </div>
 
-    <div class="What_you">
-        <h5>WHAT YOU’VE BEEN EYEING</h5>    
-    </div>
+        <div class="What_you">
+            <h5>WHAT YOU’VE BEEN EYEING</h5>    
+        </div>
 
 
         <!-- ----------------------------------footer ------------------------------------>
-    <footer>
+      <footer>
 
         <!------------------------------ /* top parts of footer_part */-------------------------------- -->
         <div class="footer_top">
@@ -273,6 +344,28 @@
             <div><a href="">Your Data & Security  ||</a></div>
             <div><a href="">Grievance Redressal </a></div>
         </div>
-    </footer>
+      </footer>
+
+
+    
+    <script>
+//  var slideIndex = 1;
+        showDivs(slideIndex);
+        
+        function plusDivs(n) {
+          showDivs(slideIndex += n);
+        }
+        
+        function showDivs(n) {
+          var i;
+          var x = document.getElementsByClassName("myslide");
+          if (n > x.length) {slideIndex = 1}
+          if (n < 1) {slideIndex = x.length}
+          for (i = 0; i < x.length; i++) {
+            x[i].style.display = "none";  
+          }
+          x[slideIndex-1].style.display = "block";  
+        }
+        </script>
 </body>
 </html>
