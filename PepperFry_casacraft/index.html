@@ -120,7 +120,7 @@
             <p>CHOOSE CATEGORY</p>
             <input list="choose-category" type="text">
             <datalist id="choose-category">
-                <div class="dropdown">
+                <div class="option-background">
                     <option value="">Select Category</option>
                     <option value="Furniture">Furniture</option>
                     <option value="Home Decor">Home Decor</option>
@@ -132,8 +132,8 @@
         </div>
         <div>
             <p>CHOOSE CATEGORY</p>
-            <input list="choose-category" type="text">
-            <datalist id="choose-category">
+            <input list="choose-furniture-category" type="text">
+            <datalist id="choose-furniture-category">
                 <option value="">Select Category</option>
                 <option value="All">All</option>
                 <option value="Beds">Beds</option>
@@ -145,119 +145,135 @@
     </div>
     <!---->
     <div id="sixth-block">
-        <div>
-            <p>Home</p>
-            <ul id="list">
-                <li>Brands</li>
-                <li>CasaCraft</li>
-                <li>Furniture</li>
-            </ul>
-            <h3>APPLY FILTERS</h3>
-            <hr />
-            <!---->
-            <h4>PEPPERFRY BRANDS</h4>
-            <input type="checkbox" id="brands-checklist" name="brands" value="pepperfry-brands">
-            <label for="brands">Yes (352)</label><br>
-            <div class="other-horizontal-line">
-                <hr/>
+            <div>
+                <p>Home</p>
+                <ul id="list">
+                    <li>Brands</li>
+                    <li>CasaCraft</li>
+                    <li>Furniture</li>
+                </ul>
+                <h3>APPLY FILTERS</h3>
+                <hr />
+                <!---->
+                <h4>Sort By</h4>
+                <form id="sort-another-selection-based">
+                    <select id="select-another-option" name="Based-on-relevance-select">
+                        <option value="">Relevancs</option>
+                        <option value="Newest">Newest</option>
+                        <option value="Low To High">Price: Low To High</option>
+                        <option value="High To Low">Price: High To Low</option>
+                        <option value="Fastest Shipping">Fastest Shipping</option>
+                    </select>
+                </form>
+                <div class="other-horizontal-line">
+                    <hr/>
+                </div>
+                <!---->
+                <h4>PEPPERFRY BRANDS</h4>
+                <input type="checkbox" id="brands-checklist" name="brands" value="pepperfry-brands">
+                <label for="brands">Yes (352)</label><br>
+                <div class="other-horizontal-line">
+                    <hr/>
+                </div>
+                <!---->
+                <h4>PRICE</h4>
+                <div id="price-checkbox">
+                    <form id="select-price">
+                        <input type="checkbox" name="price-under-10,000" value="under-10,000" />
+                        <label for="price-under-10,000">Under Rs 10,000 (27)</label><br/>
+                        <input type="checkbox" name="10,000 to 30,000" value="10,000 to 30,000" />
+                        <label for="10,000 to 30,000">Rs 10,000 to Rs 30,0000 (213)</label><br/>
+                        <input type="checkbox" name="over Rs 30,000" value="more than 30,000" />
+                        <label for="over Rs 30,000">Over Rs 30,000 (132)</label><br/>
+                    </form>
+                </div>
+                <div class="other-horizontal-line">
+                    <hr/>
+                </div>
+                <!---->
+                <h4>DOOR LOCK</h4>
+                <div id="door-lock-checkbox">
+                    <input type="checkbox" name="door-lock" value="door-lock-covered" />
+                    <label for="door-lock">With Lock(3)</label>
+                </div>
+                <div class="other-horizontal-line">
+                    <hr/>
+                </div>
+                <!---->
+                <h4>RECOMMENDED MATTRESS SIZE</h4>
+                <div id="mattress-size-checkbox">
+                    <input type="checkbox" />
+                    <label>78 L X 60 W Inch(18)</label><br/>
+                    <input type="checkbox" />
+                    <label>78 L X 72 W Inch(14)</label><br/>
+                    <input type="checkbox" />
+                    <label>74 L X 30 W Inch(1)</label><br/>
+                    <input type="checkbox" />
+                    <label>76 L X 36 W Inch(1)</label><br/>
+                    <input type="checkbox" />
+                    <label>78 L X 70 W Inch(1)</label><br/>
+                </div>
+                <div class="other-horizontal-line">
+                    <hr/>
+                </div>
+                <!---->
+                <h4>TOP MATERIAL</h4>
+                <div id="material-checkbox">
+                    <input type="checkbox" />
+                    <label>Engineered Wood(15)</label><br/>
+                </div>
+                <div class="other-horizontal-line">
+                    <hr/>
+                </div>
+                <!---->
+                <h4>CLEARANCE SALE</h4>
+                <div id="clearance-sale-checkbox">
+                    <input type="checkbox" />
+                    <label>Yes(37)</label><br/>
+                </div>
+                <div class="other-horizontal-line">
+                    <hr/>
+                </div>
+                <!---->
+                <h4>STORAGE</h4>
+                <div id="storage-checkbox">
+                    <input type="checkbox" />
+                    <label>No Storage(21)</label><br/>
+                    <input type="checkbox" />
+                    <label>Drawer Storage(10)</label><br/>
+                    <input type="checkbox" />
+                    <label>Box Storage(6)</label><br/>
+                </div>
+                <div class="other-horizontal-line">
+                    <hr/>
+                </div>
+                <!---->
+                <h4>DRAWER</h4>
+                <div id="storage-checkbox">
+                    <input type="checkbox" />
+                    <label>WITH DRAWER(3)</label><br/>
+                </div>
+                <div class="other-horizontal-line">
+                    <hr/>
+                </div>
+                <!---->
+                <h4>DISCOUNT</h4>
+                <div id="discount-radiobox">
+                    <input type="radio" />
+                    <label>10% And Above(57)</label><br/>
+                    <input type="radio" />
+                    <label>20% And Above(57)</label><br/>
+                    <input type="radio" />
+                    <label>30% And Above(57)</label><br/>
+                    <input type="radio" />
+                    <label>40% And Above(36)</label><br/>
+                    <input type="radio" />
+                    <label>50% And Above(7)</label><br/>
+                    <input type="radio" />
+                    <label>60% And Above(3)</label><br/>
+                </div>
             </div>
-            <!---->
-            <h4>PRICE</h4>
-            <div id="price-checkbox">
-                <input type="checkbox" name="price-under-10,000" value="under-10,000" />
-                <label for="price-under-10,000">Under Rs 10,000 (27)</label><br/>
-                <input type="checkbox" name="price-under-10,000" value="under-10,000" />
-                <label for="price-under-10,000">Under Rs 10,000 (27)</label><br/>
-                <input type="checkbox" name="price-under-10,000" value="under-10,000" />
-                <label for="price-under-10,000">Under Rs 10,000 (27)</label><br/>
-            </div>
-            <div class="other-horizontal-line">
-                <hr/>
-            </div>
-            <!---->
-            <h4>DOOR LOCK</h4>
-            <div id="door-lock-checkbox">
-                <input type="checkbox" name="door-lock" value="door-lock-covered" />
-                <label for="door-lock">With Lock(3)</label>
-            </div>
-            <div class="other-horizontal-line">
-                <hr/>
-            </div>
-            <!---->
-            <h4>RECOMMENDED MATTRESS SIZE</h4>
-            <div id="mattress-size-checkbox">
-                <input type="checkbox" />
-                <label>78 L X 60 W Inch(18)</label><br/>
-                <input type="checkbox" />
-                <label>78 L X 72 W Inch(14)</label><br/>
-                <input type="checkbox" />
-                <label>74 L X 30 W Inch(1)</label><br/>
-                <input type="checkbox" />
-                <label>76 L X 36 W Inch(1)</label><br/>
-                <input type="checkbox" />
-                <label>78 L X 70 W Inch(1)</label><br/>
-            </div>
-            <div class="other-horizontal-line">
-                <hr/>
-            </div>
-            <!---->
-            <h4>TOP MATERIAL</h4>
-            <div id="material-checkbox">
-                <input type="checkbox" />
-                <label>Engineered Wood(15)</label><br/>
-            </div>
-            <div class="other-horizontal-line">
-                <hr/>
-            </div>
-            <!---->
-            <h4>CLEARANCE SALE</h4>
-            <div id="clearance-sale-checkbox">
-                <input type="checkbox" />
-                <label>Yes(37)</label><br/>
-            </div>
-            <div class="other-horizontal-line">
-                <hr/>
-            </div>
-            <!---->
-            <h4>STORAGE</h4>
-            <div id="storage-checkbox">
-                <input type="checkbox" />
-                <label>No Storage(21)</label><br/>
-                <input type="checkbox" />
-                <label>Drawer Storage(10)</label><br/>
-                <input type="checkbox" />
-                <label>Box Storage(6)</label><br/>
-            </div>
-            <div class="other-horizontal-line">
-                <hr/>
-            </div>
-            <!---->
-            <h4>DRAWER</h4>
-            <div id="storage-checkbox">
-                <input type="checkbox" />
-                <label>WITH DRAWER(3)</label><br/>
-            </div>
-            <div class="other-horizontal-line">
-                <hr/>
-            </div>
-            <!---->
-            <h4>DISCOUNT</h4>
-            <div id="discount-radiobox">
-                <input type="radio" />
-                <label>10% And Above(57)</label><br/>
-                <input type="radio" />
-                <label>20% And Above(57)</label><br/>
-                <input type="radio" />
-                <label>30% And Above(57)</label><br/>
-                <input type="radio" />
-                <label>40% And Above(36)</label><br/>
-                <input type="radio" />
-                <label>50% And Above(7)</label><br/>
-                <input type="radio" />
-                <label>60% And Above(3)</label><br/>
-            </div>
-        </div>
-        <div></div>
+            <div></div>
     </div>
     <!--Show more options-->
     <div id="show-more-div">

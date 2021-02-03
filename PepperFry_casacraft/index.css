@@ -158,15 +158,19 @@ hr {
     font-size: 1em;
 }
 
-.dropdown-content {
+/* .dropdown-content {
     display: none;
     position: absolute;
     background-color: #f9f9f9;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
-}
+} */
 
+#fifth-block > #choose-category > .option-background {
+    background-color: white;
+}
+ 
 #sixth-block {
     width: 70%;
     /* border: 1px solid black; */
@@ -174,6 +178,8 @@ hr {
     display: flex;
     background-color: whitesmoke
 }
+
+
 
 
 
@@ -238,7 +244,7 @@ hr {
     margin-bottom: 5%;
 }
 
-#sixth-block > div:nth-child(1) > #price-checkbox, #sixth-block > div:nth-child(1) > #door-lock-checkbox, #sixth-block > div:nth-child(1) > #mattress-size-checkbox, #sixth-block > div:nth-child(1) > #material-checkbox, #sixth-block > div:nth-child(1) > #clearance-sale-checkbox, #sixth-block > div:nth-child(1) > #storage-checkbox, #sixth-block > div:nth-child(1) > #discount-radiobox {
+#sixth-block > div:nth-child(1) > #price-checkbox, #sixth-block > div:nth-child(1) > #door-lock-checkbox, #sixth-block > div:nth-child(1) > #mattress-size-checkbox, #sixth-block > div:nth-child(1) > #material-checkbox, #sixth-block > div:nth-child(1) > #clearance-sale-checkbox, #sixth-block > div:nth-child(1) > #storage-checkbox, #sixth-block > div:nth-child(1) > #discount-radiobox, #sixth-block > div:nth-child(1) > #sort-another-selection-based {
     margin-left: 11%;
 }
 
