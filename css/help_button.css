@@ -1,0 +1,151 @@
+
+    body{
+        background-color:rgb(244, 245, 247);
+    }
+.help__side {
+  height: 160px;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 300px;
+  left: 0;
+  background-color: rgb(252, 231, 231);
+  overflow-x: hidden;
+  transition: 0.5s;
+  
+}
+
+
+
+.help__side .help__close__btn {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 36px;
+  margin-left: 245px;
+  color: rgb(245, 243, 243);
+  padding-right: 2px;
+}
+
+#help_main {
+  /* transition: margin-left .5s; */
+  padding-top: 300px;
+}
+.help__side a {
+  padding: 8px 32px 8px 8px;
+  text-decoration: none;
+  font-size: 20px;
+  background-color: black;
+  display: block;
+  transition: 0.3s;
+  border-radius: 20px;
+  color: blue
+}
+
+.help__side a:hover {
+  background-color: rgb(63, 43, 43);
+}
+
+ 
+.help__btn {
+  background-color: white;
+  border: none;
+  height: 120px;
+  width: 120px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  position:fixed;
+  border-radius: 20%;
+  float: right;
+}
+
+.help__logo{
+    height: 50px;
+    width: 50px;
+    clear: both;
+}
+.help__style{
+padding-right: 30px;
+}
+
+.call_logo{
+    height: 30px;
+    width: 30px;
+    float: left;
+    padding: 5px;
+    margin: 5px;
+}
+* {box-sizing: border-box;}
+
+/* Button used to open the chat form - fixed at the bottom of the page */
+.open-button {
+  background-color: rgb(96, 177, 100);
+  font-size: large;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.8;
+  position: fixed;
+  bottom: 23px;
+  right: 28px;
+  width: 280px;
+}
+
+
+.chat-popup {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  right: 15px;
+  border: 3px solid #f1f1f1;
+  z-index: 9;
+}
+
+
+.form-container {
+  max-width: 300px;
+  padding: 10px;
+  background-color: white;
+}
+
+
+.form-container textarea {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+  resize: none;
+  min-height: 200px;
+}
+
+
+.form-container textarea:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+
+.form-container .btn {
+  background-color: #17f317;
+  font-size: large;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom:10px;
+  opacity: 0.8;
+}
+
+.form-container .cancel {
+  background-color: rgb(216, 66, 66);
+  font-size: large;
+}
+
+.form-container .btn:hover, .open-button:hover {
+  opacity: 1;
+}
+</style
