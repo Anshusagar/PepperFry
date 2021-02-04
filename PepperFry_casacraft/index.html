@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> CasaCraft Furniture : Buy CasaCraft Furniture Online in India @ Best Prices - Pepperfry </title>
     <link href="index.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!-- <link rel="stylesheet" href="Week-5-Project\index.css"> -->
 </head>
 <body>
     <!--Banner of Casa Craft-->
@@ -115,8 +117,27 @@
     </div>
     <h1 id="discover-product-heading">DISCOVER PRODUCTS FROM CASACRAFT</h1>
     <!---->
-    <div id="fifth-block">
-        <div>
+    <div id="fifth-block" class="filter-box d-flex justify-content-center">
+        <div class="m-2">
+            Choose category <br>
+            <select style="width: 200px; height: 40px;" class="form-select-1" aria-label="Default select example">
+                
+                <option selected>Furniture</option>
+                <option value="Beds">Beds</option>
+                <option value="Chairs">Chairs</option>
+                <option value="Dining">Dining</option>
+              </select>
+        </div>
+        <div class="m-2">
+            Choose category <br>
+            <select style="width: 200px; height: 40px;" class="form-select-2" aria-label="Default select example">
+                <option selected>All</option>
+                <option value="1">Chairs</option>
+                <option value="2">Two</option>
+                <option value="3">Three</option>
+              </select>
+        </div>
+        <!-- <div>
             <p>CHOOSE CATEGORY</p>
             <input list="choose-category" type="text">
             <datalist id="choose-category">
@@ -129,8 +150,8 @@
                     <option value="Kids Furniture">Kids Furniture</option>
                 </div>
             </datalist>
-        </div>
-        <div>
+        </div> -->
+        <!-- <div>
             <p>CHOOSE CATEGORY</p>
             <input list="choose-furniture-category" type="text">
             <datalist id="choose-furniture-category">
@@ -141,7 +162,7 @@
                 <option value="Dinning">Dinning</option>
                 <option value="Tables">Tables</option>
             </datalist>
-        </div>
+        </div> -->
     </div>
     <!---->
     <div id="sixth-block">
@@ -156,13 +177,13 @@
                 <hr />
                 <!---->
                 <h4>Sort By</h4>
-                <form id="sort-another-selection-based">
+                <form id="sort-another-selection-based" class="form-select">
                     <select id="select-another-option" name="Based-on-relevance-select">
-                        <option value="">Relevancs</option>
-                        <option value="Newest">Newest</option>
-                        <option value="Low To High">Price: Low To High</option>
-                        <option value="High To Low">Price: High To Low</option>
-                        <option value="Fastest Shipping">Fastest Shipping</option>
+                        <option value="">Relevance</option>
+                        <option value="0">Newest</option>
+                        <option value="1">Price: Low To High</option>
+                        <option value="2">Price: High To Low</option>
+                        <option value="3">Fastest Shipping</option>
                     </select>
                 </form>
                 <div class="other-horizontal-line">
@@ -273,7 +294,159 @@
                     <label>60% And Above(3)</label><br/>
                 </div>
             </div>
-            <div></div>
+            <!-- //result Api  -->
+            <div class="res d-flex flex-wrap" style="overflow: scroll; height: 1950px;">
+                <div class="card" style="width: 22rem; height: 472px;">
+                    <div class="top-part">
+                        <img class="card-img ml-3 mt-2" style="width: 90%; ;"
+                            src="https://ii1.pepperfry.com/media/catalog/product/s/c/568x284/scarlett-2-seater-sofa-in-green-colour---casacraft-by-pepperfry-scarlett-2-seater-sofa-in-green-colo-i8xeqq.jpg"
+                            alt="Card image cap">
+                        <div class="hidden-div ">
+                            <button class="Add-to-cart" id="btn-1">ADD TO CART</button>
+                        </div>
+                    </div>
+        
+                    <div class="card-body col">
+                        <div class="card-title ">Scarlett Seater Sofa In Green Colour</div>
+                        <div class="row ">
+                            <div><a class="casaCraft-link" href="#">Casacraft By PepperFry</a></div>
+                            <div class="heart"></div>
+                        </div>
+        
+                        <div class="product-price"><span>₹ 8,999</span></div>
+                        <div class="product-price-offer">
+                            <p>Save ₹ 5,999 <span>(36% Off)</span>,Limited Time Offer</p>
+                        </div>
+                        <div class="product-cashback"><span>Extra Cashback Worth ₹ 5,000</span></div>
+                        <div class="row">
+                            <div><img src="https://ii1.pepperfry.com/images/svg/clip-exp-ship-icon-2018.svg" alt=""></div>
+                            <div class="product-ship">
+                                <p>Ships in 1 Day</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card" style="width: 25rem; height: 472px;">
+                    <div class="top-part">
+                        <img class="card-img ml-3 mt-2" style="width: 90%; ;"
+                            src="https://ii1.pepperfry.com/media/catalog/product/s/c/568x284/scarlett-2-seater-sofa-in-green-colour---casacraft-by-pepperfry-scarlett-2-seater-sofa-in-green-colo-i8xeqq.jpg"
+                            alt="Card image cap">
+                        <div class="hidden-div ">
+                            <button class="Add-to-cart" id="btn-1">ADD TO CART</button>
+                        </div>
+                    </div>
+        
+                    <div class="card-body col">
+                        <div class="card-title ">Scarlett Seater Sofa In Green Colour</div>
+                        <div class="row ">
+                            <div><a class="casaCraft-link" href="#">Casacraft By PepperFry</a></div>
+                            <div class="heart"></div>
+                        </div>
+        
+                        <div class="product-price"><span>₹ 8,999</span></div>
+                        <div class="product-price-offer">
+                            <p>Save ₹ 5,999 <span>(36% Off)</span>,Limited Time Offer</p>
+                        </div>
+                        <div class="product-cashback"><span>Extra Cashback Worth ₹ 5,000</span></div>
+                        <div class="row">
+                            <div><img src="https://ii1.pepperfry.com/images/svg/clip-exp-ship-icon-2018.svg" alt=""></div>
+                            <div class="product-ship">
+                                <p>Ships in 1 Day</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card" style="width: 25rem; height: 472px;">
+                    <div class="top-part">
+                        <img class="card-img ml-3 mt-2" style="width: 90%; ;"
+                            src="https://ii1.pepperfry.com/media/catalog/product/s/c/568x284/scarlett-2-seater-sofa-in-green-colour---casacraft-by-pepperfry-scarlett-2-seater-sofa-in-green-colo-i8xeqq.jpg"
+                            alt="Card image cap">
+                        <div class="hidden-div ">
+                            <button class="Add-to-cart" id="btn-1">ADD TO CART</button>
+                        </div>
+                    </div>
+        
+                    <div class="card-body col">
+                        <div class="card-title ">Scarlett Seater Sofa In Green Colour</div>
+                        <div class="row ">
+                            <div><a class="casaCraft-link" href="#">Casacraft By PepperFry</a></div>
+                            <div class="heart"></div>
+                        </div>
+        
+                        <div class="product-price"><span>₹ 8,999</span></div>
+                        <div class="product-price-offer">
+                            <p>Save ₹ 5,999 <span>(36% Off)</span>,Limited Time Offer</p>
+                        </div>
+                        <div class="product-cashback"><span>Extra Cashback Worth ₹ 5,000</span></div>
+                        <div class="row">
+                            <div><img src="https://ii1.pepperfry.com/images/svg/clip-exp-ship-icon-2018.svg" alt=""></div>
+                            <div class="product-ship">
+                                <p>Ships in 1 Day</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card" style="width: 25rem; height: 472px;">
+                    <div class="top-part">
+                        <img class="card-img ml-3 mt-2" style="width: 90%; ;"
+                            src="https://ii1.pepperfry.com/media/catalog/product/s/c/568x284/scarlett-2-seater-sofa-in-green-colour---casacraft-by-pepperfry-scarlett-2-seater-sofa-in-green-colo-i8xeqq.jpg"
+                            alt="Card image cap">
+                        <div class="hidden-div ">
+                            <button class="Add-to-cart" id="btn-1">ADD TO CART</button>
+                        </div>
+                    </div>
+        
+                    <div class="card-body col">
+                        <div class="card-title ">Scarlett Seater Sofa In Green Colour</div>
+                        <div class="row ">
+                            <div><a class="casaCraft-link" href="#">Casacraft By PepperFry</a></div>
+                            <div class="heart"></div>
+                        </div>
+        
+                        <div class="product-price"><span>₹ 8,999</span></div>
+                        <div class="product-price-offer">
+                            <p>Save ₹ 5,999 <span>(36% Off)</span>,Limited Time Offer</p>
+                        </div>
+                        <div class="product-cashback"><span>Extra Cashback Worth ₹ 5,000</span></div>
+                        <div class="row">
+                            <div><img src="https://ii1.pepperfry.com/images/svg/clip-exp-ship-icon-2018.svg" alt=""></div>
+                            <div class="product-ship">
+                                <p>Ships in 1 Day</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card" style="width: 25rem; height: 472px;">
+                    <div class="top-part">
+                        <img class="card-img ml-3 mt-2" style="width: 90%; ;"
+                            src="https://ii1.pepperfry.com/media/catalog/product/s/c/568x284/scarlett-2-seater-sofa-in-green-colour---casacraft-by-pepperfry-scarlett-2-seater-sofa-in-green-colo-i8xeqq.jpg"
+                            alt="Card image cap">
+                        <div class="hidden-div ">
+                            <button class="Add-to-cart" id="btn-1">ADD TO CART</button>
+                        </div>
+                    </div>
+        
+                    <div class="card-body col">
+                        <div class="card-title ">Scarlett Seater Sofa In Green Colour</div>
+                        <div class="row ">
+                            <div><a class="casaCraft-link" href="#">Casacraft By PepperFry</a></div>
+                            <div class="heart"></div>
+                        </div>
+        
+                        <div class="product-price"><span>₹ 8,999</span></div>
+                        <div class="product-price-offer">
+                            <p>Save ₹ 5,999 <span>(36% Off)</span>,Limited Time Offer</p>
+                        </div>
+                        <div class="product-cashback"><span>Extra Cashback Worth ₹ 5,000</span></div>
+                        <div class="row">
+                            <div><img src="https://ii1.pepperfry.com/images/svg/clip-exp-ship-icon-2018.svg" alt=""></div>
+                            <div class="product-ship">
+                                <p>Ships in 1 Day</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
     </div>
     <!--Show more options-->
     <div id="show-more-div">
