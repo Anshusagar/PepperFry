@@ -32,6 +32,7 @@ function browseCollection() {
     display_all_browse_collection.innerHTML = html
 }
 
+<<<<<<< HEAD
 // Anshu part
 window.addEventListener('load', function () {
     handleData();
@@ -149,3 +150,11 @@ window.addEventListener('load', function () {
   
           })
           }
+=======
+// let odd_add_cart_button = document.querySelector("")
+// odd_add_cart_button.addEventListener("click", openAddCartBar)
+
+// function openAddCartBar() {
+//     document.getElementById("mySidenav").style.width = "550px";
+// }
+>>>>>>> b5277738a721a4a5e3bf49d86810d635a6797560

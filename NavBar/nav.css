@@ -10,22 +10,19 @@ body{
 }
 
 .logo{
-    width: 200px;
-    height: 40px;
-    margin-top: 10px;
-    margin-left: 50%;
-    padding: 5px;
+    width: 10%;
+    position: absolute;
+    left: 20%;
+    top: 10px;
 }
 .searchContainer {
-    position: relative;
     border: 1px solid #ccc;
     border-radius: 5px;
-    overflow: hidden;
-    width: 600px;
+    width: 32%;
     height: 35px;
     margin-top: 10px;
     padding: 5px;
-    margin-left: 10%;
+    margin-left: 31%;
     background-color: rgb(231, 231, 231) ;
 
 }
@@ -40,10 +37,11 @@ body{
     flex: 1;
 }
 .searchContainer input{
-    width: 550px;
+    width: 93%;
     height: 40px;
     margin: 0;
     background-color: rgb(231, 231, 231) ;
+    /* border: 1px solid black; */
     outline: none;
 } 
 
@@ -51,10 +49,17 @@ body{
     display: flex;
     font-size: 18px;
     margin-top: 2px;
-    justify-content: space-around;
     width: 21%;
-    padding: 15px;
+    padding: 10px;
 } 
+
+.icon > .icon_box:nth-child(1) {
+    margin-left: 5%;
+}
+
+.icon > .icon_box:nth-child(2), .icon > .icon_box:nth-child(3), .icon > .icon_box:nth-child(4) {
+    margin-left: 5%;
+}
 .icon_box{
     display: flex;
     flex-direction: column;
@@ -64,7 +69,7 @@ body{
 .nav_mini{
     height: 40px;
     width: 100%;
-    border: 1.5px solid rgb(63, 60, 60); 
+    border: 1.5px solid grey; 
     padding-top: 15px;
     justify-content: center;
     display: flex;
