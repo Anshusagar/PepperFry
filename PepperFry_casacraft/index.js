@@ -32,7 +32,6 @@ function browseCollection() {
     display_all_browse_collection.innerHTML = html
 }
 
-<<<<<<< HEAD
 // Anshu part
 window.addEventListener('load', function () {
     handleData();
@@ -44,6 +43,7 @@ window.addEventListener('load', function () {
       res.json()
     );
     let all = data;
+    // console.log(all.type)
     displayData(all);
   }
   
@@ -53,13 +53,14 @@ window.addEventListener('load', function () {
     for (let i = 0; i < all.length; i++) {
       // console.log(all[i]['name']);
       // console.log(all[i]);
+      // console.log(all[i].type)
       html += `<div class="card" style="width: 22rem;">
     <div class="top-part">
         <img class="card-img ml-3 mt-2" style="width: 90%; ;"
             src="${all[i]['img-address']}"
             alt="Card image cap">
         <div class="hidden-div ">
-            <button class="Add-to-cart" id="btn-1">ADD TO CART</button>
+            <button class="Add-to-cart ${all[i].type}" id="${all[i].id}" onClick="movePage()">ADD TO CART</button>
         </div>
     </div>
   
@@ -91,7 +92,7 @@ window.addEventListener('load', function () {
       //   </div>
       // </div>`;
     }
-    console.log(html)
+    // console.log(html)
     div.innerHTML = html;
   }
   
@@ -149,12 +150,11 @@ window.addEventListener('load', function () {
               heart[i].classList.toggle('toggle')
   
           })
-          }
-=======
-// let odd_add_cart_button = document.querySelector("")
-// odd_add_cart_button.addEventListener("click", openAddCartBar)
+}
 
-// function openAddCartBar() {
-//     document.getElementById("mySidenav").style.width = "550px";
-// }
->>>>>>> b5277738a721a4a5e3bf49d86810d635a6797560
+function movePage(type) {
+    let id = event.target.id;
+    let class_list = event.target.classList;
+    let type_name = class_list[1]
+    location = `cart.html?id=${id}&type=${type_name}`
+}
