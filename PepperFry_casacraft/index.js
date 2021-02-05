@@ -39,7 +39,7 @@ window.addEventListener('load', function () {
   let div = document.querySelector('.res');
   async function handleData() {
     event.preventDefault();
-    let data = await fetch('http://localhost:3004/furniture').then((res) =>
+    let data = await fetch('http://localhost:3005/furniture').then((res) =>
       res.json()
     );
     let all = data;
@@ -110,34 +110,34 @@ window.addEventListener('load', function () {
   async function renderDataByFilter(id) {
     if (id == 1) {
       let data = await fetch(
-        'http://localhost:3004/furniture/?_sort=price&_order=asc'
+        'http://localhost:3005/furniture/?_sort=price&_order=asc'
       ).then((res) => res.json());
       console.log(data);
       displayData(data);
     } else if (id == 2) {
       let data = await fetch(
-        'http://localhost:3004/furniture/?_sort=price&_order=desc'
+        'http://localhost:3005/furniture/?_sort=price&_order=desc'
       ).then((res) => res.json());
       console.log(data);
       displayData(data);
     }
     else if(id=='Beds'){
         let data = await fetch(
-          'http://localhost:3004/Beds'
+          'http://localhost:3005/Beds'
         ).then((res) => res.json());
         console.log(data);
         displayData(data);
       }
       else if(id=='Chairs'){
         let data = await fetch(
-          'http://localhost:3004/Chairs'
+          'http://localhost:3005/Chairs'
         ).then((res) => res.json());
         console.log(data);
         displayData(data);
       }
       else if(id=='Dining'){
         let data = await fetch(
-          'http://localhost:3004/Dining'
+          'http://localhost:3005/Dining'
         ).then((res) => res.json());
         console.log(data);
         displayData(data);

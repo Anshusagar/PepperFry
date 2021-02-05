@@ -22,7 +22,7 @@ function fetchid(query, path) {
 
 function fetchData(id, type) {
     // console.log(id, type)
-    let url = `http://localhost:3004/${type}?id=${id}`
+    let url = `http://localhost:3005/${type}?id=${id}`
 
     fetch(url).then((res) => res.json()).then((data) => display(data)).catch((err) => console.log("Error While Fetching the data"))
 }
@@ -210,6 +210,7 @@ function display(data) {
     //Add to cart button
     let add_cart_button = document.createElement("div")
     add_cart_button.setAttribute("class", "add-cart-button")
+    add_cart_button.setAttribute("id", "add-cart-button")
 
     let add_cart_text = document.createElement("p")
     add_cart_text.textContent = "ADD TO CART"
@@ -253,6 +254,15 @@ function overviewInformation() {
              Dining Sets are coordinated table and chair or bench sets. They are large pieces of futrniture which will instantly draw attention to itself. Its a focal gathering spot which should be able to accommodate all family members at mealtimes. They come in options of 2,4,6,8-Seater Dining Sets in different design styles.</p>`
     
     display_overview_information.innerHTML += html
+}
+
+
+let add_cart_button = document.querySelector("#add-cart-button")
+add_cart_button.addEventListener("click", productCart)
+
+
+function productCart() {
+    console.log("This Product is add to cart")
 }
 
 
