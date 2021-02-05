@@ -1,0 +1,118 @@
+.loginpage__center{ 
+    height: 80vh;
+    width:55vw;
+    color: white;
+    margin-top: 5%;
+    padding: 0;
+    margin-left: 20%;
+}
+.login__center__right{
+    width: 40%;
+}
+.login__center__left{
+  width: 60%;
+  border: 2px solid grey;
+}
+
+
+.login__center__right img{
+    width: 100%;
+    height: 100%;
+}
+.left_one{
+    height: 55%;
+    width: 100%;
+    background-color: lightgray;
+    /* border: 1px solid black; */
+
+}
+/* .left_one_input {
+    width: 50%;
+    height: 8vh;
+    border-bottom:rgb(255, 255, 255) 2px solid;
+    background-color: turquoise;
+    
+} */
+.left_one input{
+    width:24.5vw;
+    height: 8vh;
+    background-color: turquoise;
+    border: none;
+    outline: none;
+    margin-top: 25px;
+    margin-left: 5%;
+}
+
+
+.left_one button{
+    background-color: orangered;
+    width:25vw;
+    height: 8vh;  
+    margin-left: 5%;
+    border:none;
+    color:white;
+    cursor: pointer;
+}
+.left_one p{
+    font-family:sans-serif;
+    font-size:14px;
+    color: orangered;
+    margin-left: 5% ;
+}
+
+.left_two{
+    width: 100%;
+    height: 45%;
+   
+}
+.input__bottom{
+    margin-bottom:20px;
+}
+
+.left_two_box{
+    width: 340px;
+    height: 50px;
+    border: 1px solid black;
+    margin-left: 5%;
+    margin-top: 10%;
+}
+
+.loginpage__center p{
+    font-family:sans-serif;
+    font-size:14px;
+}
+.login__center__left>p>span{
+    font-family:sans-serif;
+    font-size:14px;
+    color: rgb(0,123,182);
+    cursor: pointer;
+}
+.button{
+    height:40px;
+    width: 305px;
+}
+
+.loginpage__center{
+    display: flex;
+} 
+
+.center{
+    
+    width:0.1%;
+    text-align:center;
+}
+.left_two_boxone{
+    margin-top: 12%;
+    margin-left: 5%;
+}
+.left_two_boxone i{
+    font-size: 40px;
+    padding: 10px;
+}
+.left_two_boxone span{
+    font-size: 15px;
+    padding: 10px;
+    color: grey;
+}
+
+
