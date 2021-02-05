@@ -456,7 +456,6 @@ hr {
     cursor: pointer;
 }
 
-<<<<<<< HEAD
 /* Anshu part */
 body{
     font-family: 'Fira Sans', sans-serif !important;
@@ -548,8 +547,8 @@ body{
 .res {
   -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;  /* Firefox */
-=======
-.sidenav {
+}
+/* .sidenav {
   height: 100%;
   width: 0;
   position: fixed;
@@ -560,9 +559,9 @@ body{
   overflow-x: hidden;
   transition: 0.5s;
   border: 5px solid black;
-}
+} */
 
-.sidenav > div:nth-child(1) {
+/* .sidenav > div:nth-child(1) {
     width: 100%;
     height: 120px;
     background-color: black;
@@ -586,7 +585,7 @@ body{
     padding-left: 2%;
     margin-top: 7%;
     /* border: 1px solid white; */
-    margin-left: 5%;
+    /* margin-left: 5%;
     height: 30px;
     text-align: center;
     cursor: pointer;
@@ -600,5 +599,4 @@ body{
     height: 30px;
     margin-right: 2%;
     padding-left: 2%;
->>>>>>> b5277738a721a4a5e3bf49d86810d635a6797560
-}
+} */ 
