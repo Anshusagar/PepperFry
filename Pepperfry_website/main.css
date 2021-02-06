@@ -1,0 +1,227 @@
+.one{
+    display: flex;
+    width: 84.5%;
+    height: 450px;
+    margin-left: 8%;
+    margin-top: 10px;
+   
+}
+.frist{
+    width: 70%;
+    height: 450px;
+}
+.second{
+    margin-left: 15px;
+    width: 40%;
+    height: 450px;
+}
+.second_one{
+    width: 100%;
+    height:47%;
+}
+.second_two{
+    margin-top: 25px;
+    width: 100%;
+    height:47.5%;
+}
+.crop{
+    width: 100%;
+    height: 100%;
+}
+
+/* two  */
+.two{
+    width: 84.5%;
+    margin-left: 8%;
+    margin-top: 5%;
+}
+.two img{
+    height: 100px;
+    width: 100%;
+}
+.two_two{
+    margin-left: 79.5%;
+}
+.two_two a{
+    text-decoration: none;
+    color: rgb(241,101,33);
+    font-size: 18px;
+}
+
+/* three  */
+.three{
+    
+    width: 86%;
+    height: 300px;
+    margin-left: 8%;
+    margin-top: 7%;
+}
+.thrid_frist{
+    margin-top: 10px;
+    font-size: 20px;
+    padding: 5px;
+}
+.third_second{
+    display: flex;
+    
+}
+.third_second_box{
+    width: 15%;
+    height: 210px;
+    margin-right: 22px;
+}
+.third_img{
+    width: 100%;
+    height: 209px;
+    border-radius: 5px;
+}
+/* four  */
+
+.four{
+    margin-top: 1%;
+    width: 100%;
+    height: 990px;
+    background-color: rgb(239,241,243);
+    padding: 5px;
+    
+}
+.four_one{
+    display: flex;
+    margin-left: 8%;
+    margin-top: 25px;
+    width: 83.5%;
+    height: 420px;
+}
+.four_box{
+    width: 32%;
+    height: 380px;
+    margin-right: 5px;
+    background-color: white;
+    padding: 8px;
+}
+.four_box_img_one{
+    height: 45px;
+    width: 70%;
+    margin-left: 1%;
+    margin-top: 2%;
+}
+.four_div{
+    font-size: 14px;
+
+}
+.four_bottom a{
+    text-decoration: none;
+    color: rgb(0, 60, 255);
+    font-size: 14px;
+}
+/* five  */
+.five{
+    margin-top: 5%;
+    width: 100%;
+    height: 550px;
+    background-color:white;
+    
+}
+.five_box{
+    display: flex;
+    margin-left: 8%;
+    margin-top: 25px;
+    width: 83.5%;
+    height: 400px;
+}
+.five_one{
+    width: 34%;
+    height: 399px;
+    margin-right: 8px;
+    background-color: white;
+}
+.five_two{
+    text-align: center;
+}
+.five_two p{
+    color: rgb(167, 164, 164);
+}
+
+/* six  */
+
+.six{
+    margin-top: 2%;
+  width: 100%;
+  height: 850px;
+  background-color: rgb(239,241,243);
+}
+.six_one{
+    margin-left: 7%;
+    font-size: 20px;
+    padding: 18px;
+}
+.six_two{
+    margin-left: 8.5%;
+}
+.six_three{
+    display: flex;
+    margin-left: 8%;
+    margin-top: 25px;
+    width: 86.5%;
+    height: 350px;
+}
+.six_three_one{
+    width: 25%;
+    height: 350px;
+    margin-right: 10px;
+    background-color: white;
+}
+.six_img{
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.six_div_one{
+    margin-left: 10px;
+    text-decoration: none;
+    font-size: 13px;
+    text-align: center;
+}
+.six_div_one a{
+    text-decoration: none;
+    color: black;
+}
+.six_div_two{
+    margin-left: 20px;
+    color: rgb(181, 187, 187);
+    text-decoration: none;
+    text-align: center;
+}
+/* seven */
+.seven{
+    height: 500px;
+    width: 100%;
+    background-color: white;
+   
+}
+.seven_box{
+    display: flex;
+    margin-left: 8%;
+    margin-top: 25px;
+    width: 86.5%;
+    height: 350px;
+}
+.seven_box_one{
+    width: 25%;
+    height: 350px;
+   padding: 10px;
+}
+.seven_box_two a{
+    color: black;
+    text-decoration: none;
+    margin-left: 14%;
+}
+.seven_box_three span{
+    color: rgb(175, 172, 172);
+    margin-left: 6%;
+}
+.seven_box_three a{
+    text-decoration: none;
+}
+
+

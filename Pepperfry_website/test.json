@@ -1,0 +1,1164 @@
+{
+    "furniture":[
+        {    "id":1,
+            "name": "Jazmin 1 seater Sofa in Light Grey Colour with Brown Oak Finish",
+            "made": "CasaCraft by Pepperfry",
+            "rate": "₹ 11,999",
+            "type": "furniture",
+            "price":11999,
+            "img-address": "https://ii1.pepperfry.com/media/catalog/product/j/a/568x625/jazmin-1-seater-sofa-in-light-grey-colour-with-brown-oak-finish-by-casacraft-jazmin-1-seater-sofa-in-5sj3fr.jpg",
+            "other-image-address": [
+                {
+                    "first-image": "https://ii2.pepperfry.com/media/catalog/product/j/a/70x77/jazmin-1-seater-sofa-in-dark-grey-colour-with-brown-oak-finish-by-casacraft-jazmin-1-seater-sofa-in--os9piv.jpg",
+                    "second-image": "https://ii3.pepperfry.com/media/catalog/product/j/a/70x77/jazmin-1-seater-sofa-in-dark-grey-colour-with-brown-oak-finish-by-casacraft-jazmin-1-seater-sofa-in--lctset.jpg",
+                    "third-image": "https://ii1.pepperfry.com/media/catalog/product/j/a/70x77/jazmin-1-seater-sofa-in-dark-grey-colour-with-brown-oak-finish-by-casacraft-jazmin-1-seater-sofa-in--cbmcv8.jpg"
+                }
+            ],
+            "other-details": [
+                {
+                    "brand": "CasaCraft",
+                    "dimension": "H 32.48 x W 30.12 x D 20.47; Seating Height-17.52 (All dimension in inches)",
+                    "weight": "14.8 KG",
+                    "warranty": "36 Months' Warranty"
+                }
+            ]
+        },
+        {   "id":2,
+            "name": "Valery 1 Seater Sofa in Green Colour with Brown Oak Finish",
+            "made": "CasaCraft by Pepperfry",
+            "rate": "₹ 16,999",
+            "type": "furniture",
+            "price":16999,
+            "img-address": "https://ii1.pepperfry.com/media/catalog/product/v/a/568x625/valery-1-seater-sofa-in-green-colour-with-brown-oak-finish-by-casacraft-valery-1-seater-sofa-in-gree-8ztdz2.jpg",
+            "other-image-address": [
+                {
+                    "first-image": "https://ii2.pepperfry.com/media/catalog/product/v/a/70x77/valery-1-seater-sofa-in-green-colour-with-brown-oak-finish-by-casacraft-valery-1-seater-sofa-in-gree-kr1woc.jpg",
+                    "second-image": "https://ii3.pepperfry.com/media/catalog/product/v/a/70x77/valery-1-seater-sofa-in-green-colour-with-brown-oak-finish-by-casacraft-valery-1-seater-sofa-in-gree-jyyfoy.jpg",
+                    "third-image": "https://ii1.pepperfry.com/media/catalog/product/v/a/70x77/valery-1-seater-sofa-in-green-colour-with-brown-oak-finish-by-casacraft-valery-1-seater-sofa-in-gree-vhbdbm.jpg"
+                }
+            ],
+            "other-details": [
+                {
+                    "brand": "CasaCraft",
+                    "dimension": "H 32.48 x W 30.12 x D 20.47; Seating Height-17.52 (All dimension in inches)",
+                    "weight": "14.8 KG",
+                    "warranty": "36 Months' Warranty"
+                }
+            ]
+        },
+        {
+            "id":3,
+            "name": "Uno Writing Tablein Arizona Walnut Colour",
+            "made": "CasaCraft by Pepperfry",
+            "rate": "₹ 12,999",
+            "type": "furniture",
+            "price":12999,
+            "img-address": "https://ii1.pepperfry.com/media/catalog/product/u/n/568x625/uno-writing-tablein--arizona-walnut-colour-by-casacraft-uno-writing-tablein--arizona-walnut-colour-b-4vexa3.jpg",
+            "other-image-address": [
+                {
+                    "first-image": "https://ii2.pepperfry.com/media/catalog/product/u/n/70x77/uno-writing-tablein--arizona-walnut-colour-by-casacraft-uno-writing-tablein--arizona-walnut-colour-b-vxa301.jpg",
+                    "second-image": "https://ii3.pepperfry.com/media/catalog/product/u/n/70x77/uno-writing-tablein--arizona-walnut-colour-by-casacraft-uno-writing-tablein--arizona-walnut-colour-b-pjxypz.jpg",
+                    "third-image": "https://ii1.pepperfry.com/media/catalog/product/u/n/70x77/uno-writing-tablein--arizona-walnut-colour-by-casacraft-uno-writing-tablein--arizona-walnut-colour-b-eboxkx.jpg"
+                }
+            ],
+            "other-details": [
+                {
+                    "brand": "CasaCraft",
+                    "dimension": "H 32.48 x W 30.12 x D 20.47; Seating Height-17.52 (All dimension in inches)",
+                    "weight": "14.8 KG",
+                    "warranty": "36 Months' Warranty"
+                }
+            ]
+        },
+        {   
+            "id":4,
+            "name": "Ivanka 3 Door Wardrobe in Natural Walnut Colour",
+            "made": "CasaCraft by Pepperfry",
+            "rate": "₹ 19,999",
+            "type": "furniture",
+            "price":19999,
+            "img-address": "https://ii1.pepperfry.com/media/catalog/product/i/v/568x625/ivanka-3-door-wardrobe-in-natural-walnut-colour-by-casacraft-ivanka-3-door-wardrobe-in-natural-walnu-txes7y.jpg ",
+            "other-image-address": [
+                {
+                    "first-image": "https://ii2.pepperfry.com/media/catalog/product/i/v/70x77/ivanka-3-door-wardrobe-in-natural-walnut-colour-by-casacraft-ivanka-3-door-wardrobe-in-natural-walnu-eauhhe.jpg",
+                    "second-image": "https://ii3.pepperfry.com/media/catalog/product/i/v/70x77/ivanka-3-door-wardrobe-in-natural-walnut-colour-by-casacraft-ivanka-3-door-wardrobe-in-natural-walnu-cjqc8a.jpg",
+                    "third-image": "https://ii1.pepperfry.com/media/catalog/product/i/v/70x77/ivanka-3-door-wardrobe-in-natural-walnut-colour-by-casacraft-ivanka-3-door-wardrobe-in-natural-walnu-zsksyn.jpg"
+                }
+            ],
+            "other-details": [
+                {
+                    "brand": "CasaCraft",
+                    "dimension": "H 32.48 x W 30.12 x D 20.47; Seating Height-17.52 (All dimension in inches)",
+                    "weight": "14.8 KG",
+                    "warranty": "36 Months' Warranty"
+                }
+            ]
+        },
+        {
+            "id":5,
+            "name": "Ivanka 4 Door Wardrobe in Natural Walnut Colour",
+            "made": "CasaCraft by Pepperfry",
+            "rate": "₹ 27,999",
+            "type": "furniture",
+            "price":27999,
+            "img-address": "https://ii1.pepperfry.com/media/catalog/product/i/v/568x625/ivanka-4-door-wardrobe-in-natural-walnut-colour-by-casacraft-ivanka-4-door-wardrobe-in-natural-walnu-yxd39q.jpg",
+            "other-image-address": [
+                {
+                    "first-image": "https://ii2.pepperfry.com/media/catalog/product/i/v/70x77/ivanka-4-door-wardrobe-in-natural-walnut-colour-by-casacraft-ivanka-4-door-wardrobe-in-natural-walnu-wxqg47.jpg",
+                    "second-image": "https://ii3.pepperfry.com/media/catalog/product/i/v/70x77/ivanka-4-door-wardrobe-in-natural-walnut-colour-by-casacraft-ivanka-4-door-wardrobe-in-natural-walnu-1uzfvv.jpg",
+                    "third-image": "https://ii1.pepperfry.com/media/catalog/product/i/v/70x77/ivanka-4-door-wardrobe-in-natural-walnut-colour-by-casacraft-ivanka-4-door-wardrobe-in-natural-walnu-yxpfm0.jpg"
+                }
+            ],
+            "other-details": [
+                {
+                    "brand": "CasaCraft",
+                    "dimension": "H 32.48 x W 30.12 x D 20.47; Seating Height-17.52 (All dimension in inches)",
+                    "weight": "14.8 KG",
+                    "warranty": "36 Months' Warranty"
+                }
+            ]
+        },
+        {
+            "id":6,
+            "name": "Danilo Upholstered Queen Size Bed in Navy Blue Colour with Storage Drawers",
+            "made": "CasaCraft by Pepperfry",
+            "rate": "₹ 23,999",
+            "type": "furniture",
+            "price":23999,
+            "img-address": "https://ii1.pepperfry.com/media/catalog/product/d/a/568x625/danilo-upholstered-queen-size-bed-in-navy-blue-colour-with-storage-drawers-by-casacraft-danilo-uphol-ns31rj.jpg",
+            "other-image-address": [
+                {
+                    "first-image": "https://ii2.pepperfry.com/media/catalog/product/d/a/70x77/danilo-upholstered-queen-size-bed-in-navy-blue-colour-with-storage-drawers-by-casacraft-danilo-uphol-qxlo9w.jpg",
+                    "second-image": "https://ii3.pepperfry.com/media/catalog/product/d/a/70x77/danilo-queen-size-bed-in-navy-blue-colour-with-storage-drawers-by-casacraft-danilo-queen-size-bed-in-r9zzl6.jpg",
+                    "third-image": "https://ii1.pepperfry.com/media/catalog/product/d/a/70x77/danilo-queen-size-bed-in-navy-blue-colour-with-storage-drawers-by-casacraft-danilo-queen-size-bed-in-t5bokk.jpg"
+                }
+            ],
+            "other-details": [
+                {
+                    "brand": "CasaCraft",
+                    "dimension": "H 32.48 x W 30.12 x D 20.47; Seating Height-17.52 (All dimension in inches)",
+                    "weight": "98.50 KG",
+                    "warranty": "36 Months' Warranty"
+                }
+            ]
+        },
+        {
+            "id":7,
+            "name": "Alicia Dresser in Walnut Colour",
+            "made": "CasaCraft by Pepperfry",
+            "rate": "₹ 8,999",
+            "type": "furniture",
+            "price":8999,
+            "img-address": "https://ii1.pepperfry.com/media/catalog/product/a/l/568x625/alicia-dresser-in-walnut-colour-by-casacraft-alicia-dresser-in-walnut-colour-by-casacraft-olx3sa.jpg",
+            "other-image-address": [
+                {
+                    "first-image": "https://ii1.pepperfry.com/media/catalog/product/a/l/70x77/alicia-dresser-in-walnut-colour-by-casacraft-alicia-dresser-in-walnut-colour-by-casacraft-olx3sa.jpg",
+                    "second-image": "https://ii2.pepperfry.com/media/catalog/product/a/l/70x77/alicia-dresser-in-walnut-colour-by-casacraft-alicia-dresser-in-walnut-colour-by-casacraft-v9unj9.jpg",
+                    "third-image": "https://ii3.pepperfry.com/media/catalog/product/a/l/70x77/alicia-dresser-in-walnut-colour-by-casacraft-alicia-dresser-in-walnut-colour-by-casacraft-ceezof.jpg"
+                }
+            ],
+            "other-details": [
+                {
+                    "brand": "CasaCraft",
+                    "dimension": "H 32.48 x W 30.12 x D 20.47; Seating Height-17.52 (All dimension in inches)",
+                    "weight": "98.50 KG",
+                    "warranty": "36 Months' Warranty"
+                }
+            ]
+        },
+        {
+            "id":8,
+            "name": "Champion Study Table in Green",
+            "made": "CasaCraft by Pepperfry",
+            "rate": "₹ 10,999",
+            "type": "furniture",
+            "price":10999,
+            "img-address": "https://ii1.pepperfry.com/media/catalog/product/a/l/568x625/alicia-dresser-in-walnut-colour-by-casacraft-alicia-dresser-in-walnut-colour-by-casacraft-olx3sa.jpg",
+            "other-image-address": [
+                {
+                    "first-image": "https://ii1.pepperfry.com/media/catalog/product/c/h/70x77/champion-study-table-in-green-by-casacraft-champion-study-table-in-green-by-casacraft-qua8vu.jpg",
+                    "second-image": "https://ii2.pepperfry.com/media/catalog/product/c/h/70x77/champion-study-table-in-green-by-casacraft-champion-study-table-in-green-by-casacraft-tpsfgo.jpg",
+                    "third-image": "https://ii3.pepperfry.com/media/catalog/product/c/h/70x77/champion-study-table-in-green-by-casacraft-champion-study-table-in-green-by-casacraft-plxqcl.jpg"
+                }
+            ],
+            "other-details": [
+                {
+                    "brand": "CasaCraft",
+                    "dimension": "H 32.48 x W 30.12 x D 20.47; Seating Height-17.52 (All dimension in inches)",
+                    "weight": "98.50 KG",
+                    "warranty": "36 Months' Warranty"
+                }
+            ]
+        },
+        {
+            "id":9,
+            "name": "Fumio 4 Seater Dining Set in Walnut & Beige Finish",
+            "made": "CasaCraft by Pepperfry",
+            "rate": "₹ 22,999",
+            "type": "furniture",
+            "price":22999,
+            "img-address": "https://ii1.pepperfry.com/media/catalog/product/f/u/568x625/fumio-4-seater-dining-set-in-walnut---beige-finish-by-casacraft-fumio-4-seater-dining-set-in-walnut--fv06wf.jpg",
+            "other-image-address": [
+                {
+                    "first-image": "https://ii1.pepperfry.com/media/catalog/product/f/u/70x77/fumio-4-seater-dining-set-in-walnut---beige-finish-by-casacraft-fumio-4-seater-dining-set-in-walnut--fv06wf.jpg",
+                    "second-image": "https://ii2.pepperfry.com/media/catalog/product/f/u/70x77/fumio-4-seater-dining-set-in-walnut---beige-finish-by-casacraft-fumio-4-seater-dining-set-in-walnut--mntczt.jpg",
+                    "third-image": "https://ii3.pepperfry.com/media/catalog/product/f/u/70x77/fumio-4-seater-dining-set-in-walnut---beige-finish-by-casacraft-fumio-4-seater-dining-set-in-walnut--z8gz39.jpg"
+                }
+            ],
+            "other-details": [
+                {
+                    "brand": "CasaCraft",
+                    "dimension": "H 32.48 x W 30.12 x D 20.47; Seating Height-17.52 (All dimension in inches)",
+                    "weight": "98.50 KG",
+                    "warranty": "36 Months' Warranty"
+                }
+            ]
+        },
+        {
+            "id":10,
+            "name": "Alvaro Night stand In Natural Teak Finish",
+            "made": "CasaCraft by Pepperfry",
+            "rate": "₹ 6,999",
+            "type": "furniture",
+            "price":6999,
+            "img-address": "https://ii1.pepperfry.com/media/catalog/product/a/l/568x625/alvaro-beside-table-with-single-drawer-storage-in-natural-teak-finish-by-casacraft-alvaro-beside-tab-oklhyi.jpg",
+            "other-image-address": [
+                {
+                    "first-image": "https://ii1.pepperfry.com/media/catalog/product/a/l/70x77/alvaro-beside-table-with-single-drawer-storage-in-natural-teak-finish-by-casacraft-alvaro-beside-tab-j5clez.jpg",
+                    "second-image": "https://ii2.pepperfry.com/media/catalog/product/a/l/70x77/alvaro-beside-table-with-single-drawer-storage-in-natural-teak-finish-by-casacraft-alvaro-beside-tab-oklhyi.jpg",
+                    "third-image": "https://ii1.pepperfry.com/media/catalog/product/a/l/70x77/alvaro-beside-table-with-single-drawer-storage-in-natural-teak-finish-by-casacraft-alvaro-beside-tab-jdrrgo.jpg"
+                }
+            ],
+            "other-details": [
+                {
+                    "brand": "CasaCraft",
+                    "dimension": "H 32.48 x W 30.12 x D 20.47; Seating Height-17.52 (All dimension in inches)",
+                    "weight": "98.50 KG",
+                    "warranty": "36 Months' Warranty"
+                }
+            ]
+        },
+        {
+            "id":11,
+            "name": "Bonita Entertainment Unit in White Colour",
+            "made": "CasaCraft by Pepperfry",
+            "rate": "₹ 20,999",
+            "type": "furniture",
+            "price":20999,
+            "img-address": "https://ii1.pepperfry.com/media/catalog/product/b/o/568x625/bonita-entertainment-unit-in-dark-black-colour-by-casacraft-bonita-entertainment-unit-in-dark-black--dipfve.jpg",
+            "other-image-address": [
+                {
+                    "first-image": "https://ii2.pepperfry.com/media/catalog/product/b/o/70x77/bonita-entertainment-unit-in-dark-black-colour-by-casacraft-bonita-entertainment-unit-in-dark-black--qcc8kh.jpg",
+                    "second-image": "https://ii1.pepperfry.com/media/catalog/product/b/o/70x77/bonita-entertainment-unit-in-dark-black-colour-by-casacraft-bonita-entertainment-unit-in-dark-black--fxwxsx.jpg",
+                    "third-image": "https://ii2.pepperfry.com/media/catalog/product/b/o/70x77/bonita-entertainment-unit-in-dark-black-colour-by-casacraft-bonita-entertainment-unit-in-dark-black--ohkkuo.jpg"
+                }
+            ],
+            "other-details": [
+                {
+                    "brand": "CasaCraft",
+                    "dimension": "H 32.48 x W 30.12 x D 20.47; Seating Height-17.52 (All dimension in inches)",
+                    "weight": "98.50 KG",
+                    "warranty": "36 Months' Warranty"
+                }
+            ]
+        },
+        {
+            "id":12,
+            "name": "Haruka 6 Seater Dining Set in Walnut & Sandy Brown Finish",
+            "made": "CasaCraft by Pepperfry",
+            "rate": "₹ 63,999",
+            "type": "furniture",
+            "price":63999,
+            "img-address": "https://ii1.pepperfry.com/media/catalog/product/h/a/568x625/haruka-6-seater-dining-set-in-walnut---sandy-brown-finish-by-casacraft-haruka-6-seater-dining-set-in-u76neg.jpg",
+            "other-image-address": [
+                {
+                    "first-image": "https://ii2.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sandy-brown-finish-by-casacraft-haruka-6-seater-dining-set-in-v0hqha.jpg",
+                    "second-image": "https://ii3.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sandy-brown-finish-by-casacraft-haruka-6-seater-dining-set-in-lzqw4b.jpg",
+                    "third-image": "https://ii1.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sandy-brown-finish-by-casacraft-haruka-6-seater-dining-set-in-rcmwtp.jpg"
+                }
+            ],
+            "other-details": [
+                {
+                    "brand": "CasaCraft",
+                    "dimension": "H 32.48 x W 30.12 x D 20.47; Seating Height-17.52 (All dimension in inches)",
+                    "weight": "98.50 KG",
+                    "warranty": "36 Months' Warranty"
+                }
+            ]
+        }
+    ],
+    
+
+    "Beds": [
+            {
+                "id":13,
+                "name": "Danilo Upholstered Queen Size Bed in Navy Blue Colour with Storage Drawers",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 23,999",
+                "type": "Beds",
+                "price":23999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/d/a/568x625/danilo-upholstered-queen-size-bed-in-navy-blue-colour-with-storage-drawers-by-casacraft-danilo-uphol-ns31rj.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/d/a/70x77/danilo-upholstered-queen-size-bed-in-navy-blue-colour-with-storage-drawers-by-casacraft-danilo-uphol-qxlo9w.jpg",
+                        "second-image": "https://ii1.pepperfry.com/media/catalog/product/d/a/70x77/danilo-queen-size-bed-in-navy-blue-colour-with-storage-drawers-by-casacraft-danilo-queen-size-bed-in-t5bokk.jpg",
+                        "third-image": "https://ii2.pepperfry.com/media/catalog/product/d/a/70x77/danilo-queen-size-bed-in-navy-blue-colour-with-storage-drawers-by-casacraft-danilo-queen-size-bed-in-a1q1lq.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "H 39 x W 64 x D 85; Seating Height-; Mattress size : 75 x 60 (Not included) (All dimension in inches)",
+                        "weight": "98.50 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":14,
+                "name": "Eloa Queen Size Bed with Upholstered Headboard In Columbia Walnut Finish",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 29,999",
+                "type": "Beds",                "price":29999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/e/l/568x625/eloa-queen-size-bed-with-upholstered-headboard-in-columbia-walnut-finish-by-casacraft-eloa-queen-siz-lxlohw.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/e/l/70x77/eloa-queen-size-bed-with-upholstered-headboard-in-columbia-walnut-finish-by-casacraft-eloa-queen-siz-ftux39.jpg",
+                        "second-image": "https://ii1.pepperfry.com/media/catalog/product/e/l/70x77/eloa-queen-size-bed-with-upholstered-headboard-in-columbia-walnut-finish-by-casacraft-eloa-queen-siz-zgajxf.jpg",
+                        "third-image": "https://ii2.pepperfry.com/media/catalog/product/e/l/70x77/eloa-queen-size-bed-with-upholstered-headboard-in-columbia-walnut-finish-by-casacraft-eloa-queen-siz-brqbzy.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "H 39.4 x W 63.8 x D 84; Mattress size : 78 x 60 (Not included) (All dimension in inches)",
+                        "weight": "124.3 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":15,
+                "name": "Alonso Upholstered Queen Size Bed in Dark Grey Colour",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 24,999",
+                "type": "Beds",
+                "price":24999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/a/l/568x625/alonso-upholstered-queen-size-bed-in-dark-grey-colour-by-casacraft-alonso-upholstered-queen-size-bed-567pxn.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/a/l/70x77/alonso-upholstered-queen-size-bed-in-dark-grey-colour-by-casacraft-alonso-upholstered-queen-size-bed-xjomfr.jpg",
+                        "second-image": "https://ii3.pepperfry.com/media/catalog/product/a/l/70x77/alonso-upholstered-queen-size-bed-in-dark-grey-colour-by-casacraft-alonso-upholstered-queen-size-bed-dgsgmu.jpg",
+                        "third-image": "https://ii1.pepperfry.com/media/catalog/product/a/l/70x77/alonso-upholstered-queen-size-bed-in-dark-grey-colour-by-casacraft-alonso-upholstered-queen-size-bed-uymixy.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "H 40.5 x W 64.1 x D 78.7; Seating height - 12.6Mattress size - 60 x 78 (Not included) (all dimensions in inches)",
+                        "weight": "45 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":16,
+                "name": "Alonso Upholstered Queen Size Bed in Dark Grey Colour",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 24,999",
+                "type": "Beds",
+                "price":24999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/a/l/568x625/alonso-upholstered-queen-size-bed-in-dark-grey-colour-by-casacraft-alonso-upholstered-queen-size-bed-567pxn.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/a/l/70x77/alonso-upholstered-queen-size-bed-in-dark-grey-colour-by-casacraft-alonso-upholstered-queen-size-bed-xjomfr.jpg",
+                        "second-image": "https://ii3.pepperfry.com/media/catalog/product/a/l/70x77/alonso-upholstered-queen-size-bed-in-dark-grey-colour-by-casacraft-alonso-upholstered-queen-size-bed-dgsgmu.jpg",
+                        "third-image": "https://ii1.pepperfry.com/media/catalog/product/a/l/70x77/alonso-upholstered-queen-size-bed-in-dark-grey-colour-by-casacraft-alonso-upholstered-queen-size-bed-uymixy.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "H 40.5 x W 64.1 x D 78.7; Seating height - 12.6Mattress size - 60 x 78 (Not included) (all dimensions in inches)",
+                        "weight": "45 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":17,
+                "name": "Danilo Upholstered Queen Size Bed in Navy Blue Colour with Storage Drawers",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 23,999",
+                "type": "Beds",
+                "price":23999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/d/a/568x625/danilo-upholstered-queen-size-bed-in-navy-blue-colour-with-storage-drawers-by-casacraft-danilo-uphol-ns31rj.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/d/a/70x77/danilo-upholstered-queen-size-bed-in-navy-blue-colour-with-storage-drawers-by-casacraft-danilo-uphol-qxlo9w.jpg",
+                        "second-image": "https://ii1.pepperfry.com/media/catalog/product/d/a/70x77/danilo-queen-size-bed-in-navy-blue-colour-with-storage-drawers-by-casacraft-danilo-queen-size-bed-in-t5bokk.jpg",
+                        "third-image": "https://ii2.pepperfry.com/media/catalog/product/d/a/70x77/danilo-queen-size-bed-in-navy-blue-colour-with-storage-drawers-by-casacraft-danilo-queen-size-bed-in-a1q1lq.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "H 39 x W 64 x D 85; Seating Height-; Mattress size : 75 x 60 (Not included) (All dimension in inches)",
+                        "weight": "98.50 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":18,
+                "name": "Eloa Queen Size Bed with Upholstered Headboard In Columbia Walnut Finish",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 29,999",
+                "type": "Beds",
+                "price":29999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/e/l/568x625/eloa-queen-size-bed-with-upholstered-headboard-in-columbia-walnut-finish-by-casacraft-eloa-queen-siz-lxlohw.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/e/l/70x77/eloa-queen-size-bed-with-upholstered-headboard-in-columbia-walnut-finish-by-casacraft-eloa-queen-siz-ftux39.jpg",
+                        "second-image": "https://ii1.pepperfry.com/media/catalog/product/e/l/70x77/eloa-queen-size-bed-with-upholstered-headboard-in-columbia-walnut-finish-by-casacraft-eloa-queen-siz-zgajxf.jpg",
+                        "third-image": "https://ii2.pepperfry.com/media/catalog/product/e/l/70x77/eloa-queen-size-bed-with-upholstered-headboard-in-columbia-walnut-finish-by-casacraft-eloa-queen-siz-brqbzy.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "H 39.4 x W 63.8 x D 84; Mattress size : 78 x 60 (Not included) (All dimension in inches)",
+                        "weight": "124.3 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":19,
+                "name": "Alonso Upholstered Queen Size Bed in Dark Grey Colour",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 24,999",
+                "type": "Beds",
+                "price":24999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/a/l/568x625/alonso-upholstered-queen-size-bed-in-dark-grey-colour-by-casacraft-alonso-upholstered-queen-size-bed-567pxn.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/a/l/70x77/alonso-upholstered-queen-size-bed-in-dark-grey-colour-by-casacraft-alonso-upholstered-queen-size-bed-xjomfr.jpg",
+                        "second-image": "https://ii3.pepperfry.com/media/catalog/product/a/l/70x77/alonso-upholstered-queen-size-bed-in-dark-grey-colour-by-casacraft-alonso-upholstered-queen-size-bed-dgsgmu.jpg",
+                        "third-image": "https://ii1.pepperfry.com/media/catalog/product/a/l/70x77/alonso-upholstered-queen-size-bed-in-dark-grey-colour-by-casacraft-alonso-upholstered-queen-size-bed-uymixy.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "H 40.5 x W 64.1 x D 78.7; Seating height - 12.6Mattress size - 60 x 78 (Not included) (all dimensions in inches)",
+                        "weight": "45 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":20,
+                "name": "Alonso Upholstered Queen Size Bed in Dark Grey Colour",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 24,999",
+                "type": "Beds",
+                "price":24999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/a/l/568x625/alonso-upholstered-queen-size-bed-in-dark-grey-colour-by-casacraft-alonso-upholstered-queen-size-bed-567pxn.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/a/l/70x77/alonso-upholstered-queen-size-bed-in-dark-grey-colour-by-casacraft-alonso-upholstered-queen-size-bed-xjomfr.jpg",
+                        "second-image": "https://ii3.pepperfry.com/media/catalog/product/a/l/70x77/alonso-upholstered-queen-size-bed-in-dark-grey-colour-by-casacraft-alonso-upholstered-queen-size-bed-dgsgmu.jpg",
+                        "third-image": "https://ii1.pepperfry.com/media/catalog/product/a/l/70x77/alonso-upholstered-queen-size-bed-in-dark-grey-colour-by-casacraft-alonso-upholstered-queen-size-bed-uymixy.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "H 40.5 x W 64.1 x D 78.7; Seating height - 12.6Mattress size - 60 x 78 (Not included) (all dimensions in inches)",
+                        "weight": "45 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":21,
+                "name": "Danilo Upholstered Queen Size Bed in Navy Blue Colour with Storage Drawers",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 23,999",
+                "type": "Beds",
+                "price":23999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/d/a/568x625/danilo-upholstered-queen-size-bed-in-navy-blue-colour-with-storage-drawers-by-casacraft-danilo-uphol-ns31rj.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/d/a/70x77/danilo-upholstered-queen-size-bed-in-navy-blue-colour-with-storage-drawers-by-casacraft-danilo-uphol-qxlo9w.jpg",
+                        "second-image": "https://ii1.pepperfry.com/media/catalog/product/d/a/70x77/danilo-queen-size-bed-in-navy-blue-colour-with-storage-drawers-by-casacraft-danilo-queen-size-bed-in-t5bokk.jpg",
+                        "third-image": "https://ii2.pepperfry.com/media/catalog/product/d/a/70x77/danilo-queen-size-bed-in-navy-blue-colour-with-storage-drawers-by-casacraft-danilo-queen-size-bed-in-a1q1lq.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "H 39 x W 64 x D 85; Seating Height-; Mattress size : 75 x 60 (Not included) (All dimension in inches)",
+                        "weight": "98.50 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":22,
+                "name": "Eloa Queen Size Bed with Upholstered Headboard In Columbia Walnut Finish",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 29,999",
+                "type": "Beds",
+                "price":29999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/e/l/568x625/eloa-queen-size-bed-with-upholstered-headboard-in-columbia-walnut-finish-by-casacraft-eloa-queen-siz-lxlohw.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/e/l/70x77/eloa-queen-size-bed-with-upholstered-headboard-in-columbia-walnut-finish-by-casacraft-eloa-queen-siz-ftux39.jpg",
+                        "second-image": "https://ii1.pepperfry.com/media/catalog/product/e/l/70x77/eloa-queen-size-bed-with-upholstered-headboard-in-columbia-walnut-finish-by-casacraft-eloa-queen-siz-zgajxf.jpg",
+                        "third-image": "https://ii2.pepperfry.com/media/catalog/product/e/l/70x77/eloa-queen-size-bed-with-upholstered-headboard-in-columbia-walnut-finish-by-casacraft-eloa-queen-siz-brqbzy.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "H 39.4 x W 63.8 x D 84; Mattress size : 78 x 60 (Not included) (All dimension in inches)",
+                        "weight": "124.3 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":23,
+                "name": "Alonso Upholstered Queen Size Bed in Dark Grey Colour",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 24,999",
+                "type": "Beds",
+                "price":24999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/a/l/568x625/alonso-upholstered-queen-size-bed-in-dark-grey-colour-by-casacraft-alonso-upholstered-queen-size-bed-567pxn.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/a/l/70x77/alonso-upholstered-queen-size-bed-in-dark-grey-colour-by-casacraft-alonso-upholstered-queen-size-bed-xjomfr.jpg",
+                        "second-image": "https://ii3.pepperfry.com/media/catalog/product/a/l/70x77/alonso-upholstered-queen-size-bed-in-dark-grey-colour-by-casacraft-alonso-upholstered-queen-size-bed-dgsgmu.jpg",
+                        "third-image": "https://ii1.pepperfry.com/media/catalog/product/a/l/70x77/alonso-upholstered-queen-size-bed-in-dark-grey-colour-by-casacraft-alonso-upholstered-queen-size-bed-uymixy.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "H 40.5 x W 64.1 x D 78.7; Seating height - 12.6Mattress size - 60 x 78 (Not included) (all dimensions in inches)",
+                        "weight": "45 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":24,
+                "name": "Alonso Upholstered Queen Size Bed in Dark Grey Colour",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 24,999",
+                "type": "Beds",
+                "price":24999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/a/l/568x625/alonso-upholstered-queen-size-bed-in-dark-grey-colour-by-casacraft-alonso-upholstered-queen-size-bed-567pxn.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/a/l/70x77/alonso-upholstered-queen-size-bed-in-dark-grey-colour-by-casacraft-alonso-upholstered-queen-size-bed-xjomfr.jpg",
+                        "second-image": "https://ii3.pepperfry.com/media/catalog/product/a/l/70x77/alonso-upholstered-queen-size-bed-in-dark-grey-colour-by-casacraft-alonso-upholstered-queen-size-bed-dgsgmu.jpg",
+                        "third-image": "https://ii1.pepperfry.com/media/catalog/product/a/l/70x77/alonso-upholstered-queen-size-bed-in-dark-grey-colour-by-casacraft-alonso-upholstered-queen-size-bed-uymixy.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "H 40.5 x W 64.1 x D 78.7; Seating height - 12.6Mattress size - 60 x 78 (Not included) (all dimensions in inches)",
+                        "weight": "45 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            }
+        ],"Chairs": [
+            {
+                "id":25,
+                "name": "Maria Wing Chair in Abstract Multicolour",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 27,999",
+               "type": "Chairs",
+                "price":27999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/m/a/70x77/maria-wing-chair-in-abstract-multicolour-by-casacraft-maria-wing-chair-in-abstract-multicolour-by-ca-seae36.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/m/a/70x77/maria-wing-chair-in-abstract-multicoloured-by-casacraft-maria-wing-chair-in-abstract-multicoloured-b-5osevw.jpg",
+                        "second-image": "https://ii3.pepperfry.com/media/catalog/product/m/a/70x77/maria-wing-chair-in-abstract-multicoloured-by-casacraft-maria-wing-chair-in-abstract-multicoloured-b-4bzvtc.jpg",
+                        "third-image": "https://ii3.pepperfry.com/media/catalog/product/m/a/70x77/maria-wing-chair-in-abstract-multicoloured-by-casacraft-maria-wing-chair-in-abstract-multicoloured-b-4bzvtc.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "H 41.5 x W 29 x D 39; Seating Height-17.5 (All dimensions in inches)",
+                        "weight": "21 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":26,
+                "name": "Zoey Wing Chair in Olive Green Colour",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 25,999",
+               "type": "Chairs",
+                "price":25999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/z/o/70x77/zoey-wing-chair-in-olive-green-colour---casacraft-by-pepperfry-zoey-wing-chair-in-olive-green-colour-ail3xh.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/z/o/70x77/zoey-wing-chair-in-olive-green-colour---casacraft-by-pepperfry-zoey-wing-chair-in-olive-green-colour-b1oy03.jpg",
+                        "second-image": "https://ii1.pepperfry.com/media/catalog/product/z/o/70x77/zoey-wing-chair-in-olive-green-colour---casacraft-by-pepperfry-zoey-wing-chair-in-olive-green-colour-80eqmx.jpg",
+                        "third-image": "https://ii2.pepperfry.com/media/catalog/product/z/o/70x77/zoey-wing-chair-in-olive-green-colour---casacraft-by-pepperfry-zoey-wing-chair-in-olive-green-colour-2slv5e.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "H 40 x W 35 x D 34: Seating Height :17.5 (all dimensions in inches)",
+                        "weight": "18 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":27,
+                "name": "Alan Wing Chair in MultiColoured Striped Pattern",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 30,999",
+               "type": "Chairs",
+                "price":30999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/a/l/70x77/alan-wing-chair-in-multicoloured-striped-pattern-by-casacraft-alan-wing-chair-in-multicoloured-strip-3nodzc.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/a/l/70x77/alan-wing-chair-in-multicoloured-striped-pattern-by-casacraft-alan-wing-chair-in-multicoloured-strip-9bwzxq.jpg",
+                        "second-image": "https://ii3.pepperfry.com/media/catalog/product/a/l/70x77/alan-wing-chair-in-multicolored-striped-pattern-by-casacraft-alan-wing-chair-in-multicolored-striped-vm73ph.jpg",
+                        "third-image": "https://ii1.pepperfry.com/media/catalog/product/a/l/70x77/alan-wing-chair-in-multicolored-striped-pattern-by-casacraft-alan-wing-chair-in-multicolored-striped-ctft8q.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "H 37 x W 30 x D 36; Seating Height-15 (All dimension in inches)",
+                        "weight": "21 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":28,
+                "name": "Felipe Wing Chair in Sangria Red Colour",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 17,999",
+               "type": "Chairs",
+                "price":17999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/f/e/70x77/felipe-wing-chair-in-sangria-red-colour-by-casacraft-felipe-wing-chair-in-sangria-red-colour-by-casa-ynihkj.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/f/e/70x77/felipe-wing-chair-in-sangria-red-colour-by-casacraft-felipe-wing-chair-in-sangria-red-colour-by-casa-2xdljz.jpg",
+                        "second-image": "https://ii1.pepperfry.com/media/catalog/product/f/e/70x77/felipe-wing-chair-in-sangria-red-colour-by-casacraft-felipe-wing-chair-in-sangria-red-colour-by-casa-hwrbpx.jpg",
+                        "third-image": "https://ii2.pepperfry.com/media/catalog/product/f/e/70x77/felipe-wing-chair-in-sangria-red-colour-by-casacraft-felipe-wing-chair-in-sangria-red-colour-by-casa-9xvfzh.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "H 39 x W 30 x D 32; Seating Height-16 (All dimension in inches)",
+                        "weight": "25 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":29,
+                "name": "Maria Wing Chair in Abstract Multicolour",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 27,999",
+               "type": "Chairs",
+                "price":27999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/m/a/70x77/maria-wing-chair-in-abstract-multicolour-by-casacraft-maria-wing-chair-in-abstract-multicolour-by-ca-seae36.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/m/a/70x77/maria-wing-chair-in-abstract-multicoloured-by-casacraft-maria-wing-chair-in-abstract-multicoloured-b-5osevw.jpg",
+                        "second-image": "https://ii3.pepperfry.com/media/catalog/product/m/a/70x77/maria-wing-chair-in-abstract-multicoloured-by-casacraft-maria-wing-chair-in-abstract-multicoloured-b-4bzvtc.jpg",
+                        "third-image": "https://ii3.pepperfry.com/media/catalog/product/m/a/70x77/maria-wing-chair-in-abstract-multicoloured-by-casacraft-maria-wing-chair-in-abstract-multicoloured-b-4bzvtc.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "H 41.5 x W 29 x D 39; Seating Height-17.5 (All dimensions in inches)",
+                        "weight": "21 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":30,
+                "name": "Zoey Wing Chair in Olive Green Colour",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 25,999",
+               "type": "Chairs",
+                "price":25999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/z/o/70x77/zoey-wing-chair-in-olive-green-colour---casacraft-by-pepperfry-zoey-wing-chair-in-olive-green-colour-ail3xh.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/z/o/70x77/zoey-wing-chair-in-olive-green-colour---casacraft-by-pepperfry-zoey-wing-chair-in-olive-green-colour-b1oy03.jpg",
+                        "second-image": "https://ii1.pepperfry.com/media/catalog/product/z/o/70x77/zoey-wing-chair-in-olive-green-colour---casacraft-by-pepperfry-zoey-wing-chair-in-olive-green-colour-80eqmx.jpg",
+                        "third-image": "https://ii2.pepperfry.com/media/catalog/product/z/o/70x77/zoey-wing-chair-in-olive-green-colour---casacraft-by-pepperfry-zoey-wing-chair-in-olive-green-colour-2slv5e.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "H 40 x W 35 x D 34: Seating Height :17.5 (all dimensions in inches)",
+                        "weight": "18 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":31,
+                "name": "Alan Wing Chair in MultiColoured Striped Pattern",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 30,999",
+               "type": "Chairs",
+                "price":30999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/a/l/70x77/alan-wing-chair-in-multicoloured-striped-pattern-by-casacraft-alan-wing-chair-in-multicoloured-strip-3nodzc.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/a/l/70x77/alan-wing-chair-in-multicoloured-striped-pattern-by-casacraft-alan-wing-chair-in-multicoloured-strip-9bwzxq.jpg",
+                        "second-image": "https://ii3.pepperfry.com/media/catalog/product/a/l/70x77/alan-wing-chair-in-multicolored-striped-pattern-by-casacraft-alan-wing-chair-in-multicolored-striped-vm73ph.jpg",
+                        "third-image": "https://ii1.pepperfry.com/media/catalog/product/a/l/70x77/alan-wing-chair-in-multicolored-striped-pattern-by-casacraft-alan-wing-chair-in-multicolored-striped-ctft8q.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "H 37 x W 30 x D 36; Seating Height-15 (All dimension in inches)",
+                        "weight": "21 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":32,
+                "name": "Felipe Wing Chair in Sangria Red Colour",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 17,999",
+               "type": "Chairs",
+                "price":17999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/f/e/70x77/felipe-wing-chair-in-sangria-red-colour-by-casacraft-felipe-wing-chair-in-sangria-red-colour-by-casa-ynihkj.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/f/e/70x77/felipe-wing-chair-in-sangria-red-colour-by-casacraft-felipe-wing-chair-in-sangria-red-colour-by-casa-2xdljz.jpg",
+                        "second-image": "https://ii1.pepperfry.com/media/catalog/product/f/e/70x77/felipe-wing-chair-in-sangria-red-colour-by-casacraft-felipe-wing-chair-in-sangria-red-colour-by-casa-hwrbpx.jpg",
+                        "third-image": "https://ii2.pepperfry.com/media/catalog/product/f/e/70x77/felipe-wing-chair-in-sangria-red-colour-by-casacraft-felipe-wing-chair-in-sangria-red-colour-by-casa-9xvfzh.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "H 39 x W 30 x D 32; Seating Height-16 (All dimension in inches)",
+                        "weight": "25 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":33,
+                "name": "Maria Wing Chair in Abstract Multicolour",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 27,999",
+               "type": "Chairs",
+                "price":27999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/m/a/70x77/maria-wing-chair-in-abstract-multicolour-by-casacraft-maria-wing-chair-in-abstract-multicolour-by-ca-seae36.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/m/a/70x77/maria-wing-chair-in-abstract-multicoloured-by-casacraft-maria-wing-chair-in-abstract-multicoloured-b-5osevw.jpg",
+                        "second-image": "https://ii3.pepperfry.com/media/catalog/product/m/a/70x77/maria-wing-chair-in-abstract-multicoloured-by-casacraft-maria-wing-chair-in-abstract-multicoloured-b-4bzvtc.jpg",
+                        "third-image": "https://ii3.pepperfry.com/media/catalog/product/m/a/70x77/maria-wing-chair-in-abstract-multicoloured-by-casacraft-maria-wing-chair-in-abstract-multicoloured-b-4bzvtc.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "H 41.5 x W 29 x D 39; Seating Height-17.5 (All dimensions in inches)",
+                        "weight": "21 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":34,
+                "name": "Zoey Wing Chair in Olive Green Colour",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 25,999",
+               "type": "Chairs",
+                "price":25999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/z/o/70x77/zoey-wing-chair-in-olive-green-colour---casacraft-by-pepperfry-zoey-wing-chair-in-olive-green-colour-ail3xh.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/z/o/70x77/zoey-wing-chair-in-olive-green-colour---casacraft-by-pepperfry-zoey-wing-chair-in-olive-green-colour-b1oy03.jpg",
+                        "second-image": "https://ii1.pepperfry.com/media/catalog/product/z/o/70x77/zoey-wing-chair-in-olive-green-colour---casacraft-by-pepperfry-zoey-wing-chair-in-olive-green-colour-80eqmx.jpg",
+                        "third-image": "https://ii2.pepperfry.com/media/catalog/product/z/o/70x77/zoey-wing-chair-in-olive-green-colour---casacraft-by-pepperfry-zoey-wing-chair-in-olive-green-colour-2slv5e.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "H 40 x W 35 x D 34: Seating Height :17.5 (all dimensions in inches)",
+                        "weight": "18 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":35,
+                "name": "Alan Wing Chair in MultiColoured Striped Pattern",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 30,999",
+               "type": "Chairs",
+                "price":30999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/a/l/70x77/alan-wing-chair-in-multicoloured-striped-pattern-by-casacraft-alan-wing-chair-in-multicoloured-strip-3nodzc.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/a/l/70x77/alan-wing-chair-in-multicoloured-striped-pattern-by-casacraft-alan-wing-chair-in-multicoloured-strip-9bwzxq.jpg",
+                        "second-image": "https://ii3.pepperfry.com/media/catalog/product/a/l/70x77/alan-wing-chair-in-multicolored-striped-pattern-by-casacraft-alan-wing-chair-in-multicolored-striped-vm73ph.jpg",
+                        "third-image": "https://ii1.pepperfry.com/media/catalog/product/a/l/70x77/alan-wing-chair-in-multicolored-striped-pattern-by-casacraft-alan-wing-chair-in-multicolored-striped-ctft8q.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "H 37 x W 30 x D 36; Seating Height-15 (All dimension in inches)",
+                        "weight": "21 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":36,
+                "name": "Felipe Wing Chair in Sangria Red Colour",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 17,999",
+               "type": "Chairs",
+                "price":17999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/f/e/70x77/felipe-wing-chair-in-sangria-red-colour-by-casacraft-felipe-wing-chair-in-sangria-red-colour-by-casa-ynihkj.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/f/e/70x77/felipe-wing-chair-in-sangria-red-colour-by-casacraft-felipe-wing-chair-in-sangria-red-colour-by-casa-2xdljz.jpg",
+                        "second-image": "https://ii1.pepperfry.com/media/catalog/product/f/e/70x77/felipe-wing-chair-in-sangria-red-colour-by-casacraft-felipe-wing-chair-in-sangria-red-colour-by-casa-hwrbpx.jpg",
+                        "third-image": "https://ii2.pepperfry.com/media/catalog/product/f/e/70x77/felipe-wing-chair-in-sangria-red-colour-by-casacraft-felipe-wing-chair-in-sangria-red-colour-by-casa-9xvfzh.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "H 39 x W 30 x D 32; Seating Height-16 (All dimension in inches)",
+                        "weight": "25 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            }
+
+        ],
+        "Dining": [
+            {
+                "id":37,
+                "name": "Haruka 6 Seater Dining Set in Walnut & Sky Blue Finish",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 63,999",
+                "type": "Dining",
+                "price":63999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sky-blue-finish-by-casacraft-haruka-6-seater-dining-set-in-wa-9vbvhl.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sky-blue-finish-by-casacraft-haruka-6-seater-dining-set-in-wa-qafayk.jpg",
+                        "second-image": "https://ii3.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sky-blue-finish-by-casacraft-haruka-6-seater-dining-set-in-wa-0bhoxf.jpg",
+                        "third-image": "https://ii1.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sky-blue-finish-by-casacraft-haruka-6-seater-dining-set-in-wa-3zuowg.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "Table : H 29.5 x W 70.8 x D 39.3; Chairs : H 33.6 x W 20.6 x D 21.4; Seating Height-18.11 (All dimension in inches)",
+                        "weight": "43 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":38,
+                "name": "Haruka 6 Seater Dining Set in Walnut & Sandy Brown Finish",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 63,999",
+                "type": "Dining",
+                "price":63999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/h/a/568x625/haruka-6-seater-dining-set-in-walnut---sandy-brown-finish-by-casacraft-haruka-6-seater-dining-set-in-u76neg.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sandy-brown-finish-by-casacraft-haruka-6-seater-dining-set-in-v0hqha.jpg",
+                        "second-image": "https://ii3.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sandy-brown-finish-by-casacraft-haruka-6-seater-dining-set-in-lzqw4b.jpg",
+                        "third-image": "https://ii1.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sandy-brown-finish-by-casacraft-haruka-6-seater-dining-set-in-rcmwtp.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "Table : H 29.5 x W 70.8 x D 39.3; Chairs : H 33.6 x W 20.6 x D 21.4; Seating Height-18.11 (All dimension in inches)",
+                        "weight": "43 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":39,
+                "name": "Hachiro 4 Seater Dining Set in Walnut & Dark Brown Finish",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 39,999",
+                "type": "Dining",
+                "price":39999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/h/a/70x77/hachiro-4-seater-dining-set-in-walnut---dark-brown-finish-by-casacraft-hachiro-4-seater-dining-set-i-spfxig.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii1.pepperfry.com/media/catalog/product/h/a/568x625/haruka-6-seater-dining-set-in-walnut---sandy-brown-finish-by-casacraft-haruka-6-seater-dining-set-in-v0hqha.jpg",
+                        "second-image": "https://ii1.pepperfry.com/media/catalog/product/h/a/568x625/haruka-6-seater-dining-set-in-walnut---sandy-brown-finish-by-casacraft-haruka-6-seater-dining-set-in-lzqw4b.jpg",
+                        "third-image": "https://ii1.pepperfry.com/media/catalog/product/h/a/568x625/haruka-6-seater-dining-set-in-walnut---sandy-brown-finish-by-casacraft-haruka-6-seater-dining-set-in-rcmwtp.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "Table : H 29.5 x W 43.3 x D 43.3; Chairs : H 31.5 x W 20.6 x D 22.4; Seating Height-18.1 (All dimension in inches)",
+                        "weight": "43 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":40,
+                "name": "Haruka 6 Seater Dining Set in Walnut & Sky Blue Finish",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 63,999",
+                "type": "Dining",
+                "price":63999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sky-blue-finish-by-casacraft-haruka-6-seater-dining-set-in-wa-9vbvhl.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sky-blue-finish-by-casacraft-haruka-6-seater-dining-set-in-wa-qafayk.jpg",
+                        "second-image": "https://ii3.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sky-blue-finish-by-casacraft-haruka-6-seater-dining-set-in-wa-0bhoxf.jpg",
+                        "third-image": "https://ii1.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sky-blue-finish-by-casacraft-haruka-6-seater-dining-set-in-wa-3zuowg.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "Table : H 29.5 x W 70.8 x D 39.3; Chairs : H 33.6 x W 20.6 x D 21.4; Seating Height-18.11 (All dimension in inches)",
+                        "weight": "43 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":41,
+                "name": "Haruka 6 Seater Dining Set in Walnut & Sandy Brown Finish",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 63,999",
+                "type": "Dining",
+                "price":63999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sandy-brown-finish-by-casacraft-haruka-6-seater-dining-set-in-u76neg.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sandy-brown-finish-by-casacraft-haruka-6-seater-dining-set-in-v0hqha.jpg",
+                        "second-image": "https://ii3.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sandy-brown-finish-by-casacraft-haruka-6-seater-dining-set-in-lzqw4b.jpg",
+                        "third-image": "https://ii1.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sandy-brown-finish-by-casacraft-haruka-6-seater-dining-set-in-rcmwtp.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "Table : H 29.5 x W 70.8 x D 39.3; Chairs : H 33.6 x W 20.6 x D 21.4; Seating Height-18.11 (All dimension in inches)",
+                        "weight": "43 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":42,
+                "name": "Hachiro 4 Seater Dining Set in Walnut & Dark Brown Finish",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 39,999",
+                "type": "Dining",
+                "price":39999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/h/a/70x77/hachiro-4-seater-dining-set-in-walnut---dark-brown-finish-by-casacraft-hachiro-4-seater-dining-set-i-spfxig.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/h/a/70x77/hachiro-4-seater-dining-set-in-walnut---dark-brown-finish-by-casacraft-hachiro-4-seater-dining-set-i-k8k9lw.jpg",
+                        "second-image": "https://ii3.pepperfry.com/media/catalog/product/h/a/70x77/hachiro-4-seater-dining-set-in-walnut---dark-brown-finish-by-casacraft-hachiro-4-seater-dining-set-i-zwuddu.jpg",
+                        "third-image": "https://ii1.pepperfry.com/media/catalog/product/h/a/70x77/hachiro-4-seater-dining-set-in-walnut---dark-brown-finish-by-casacraft-hachiro-4-seater-dining-set-i-fpl9i4.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "Table : H 29.5 x W 43.3 x D 43.3; Chairs : H 31.5 x W 20.6 x D 22.4; Seating Height-18.1 (All dimension in inches)",
+                        "weight": "43 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":43,
+                "name": "Haruka 6 Seater Dining Set in Walnut & Sky Blue Finish",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 63,999",
+                "type": "Dining",
+
+                "price":63999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sky-blue-finish-by-casacraft-haruka-6-seater-dining-set-in-wa-9vbvhl.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sky-blue-finish-by-casacraft-haruka-6-seater-dining-set-in-wa-qafayk.jpg",
+                        "second-image": "https://ii3.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sky-blue-finish-by-casacraft-haruka-6-seater-dining-set-in-wa-0bhoxf.jpg",
+                        "third-image": "https://ii1.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sky-blue-finish-by-casacraft-haruka-6-seater-dining-set-in-wa-3zuowg.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "Table : H 29.5 x W 70.8 x D 39.3; Chairs : H 33.6 x W 20.6 x D 21.4; Seating Height-18.11 (All dimension in inches)",
+                        "weight": "43 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":44,
+                "name": "Haruka 6 Seater Dining Set in Walnut & Sandy Brown Finish",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 63,999",
+                "type": "Dining",
+                "price":63999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sandy-brown-finish-by-casacraft-haruka-6-seater-dining-set-in-u76neg.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sandy-brown-finish-by-casacraft-haruka-6-seater-dining-set-in-v0hqha.jpg",
+                        "second-image": "https://ii3.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sandy-brown-finish-by-casacraft-haruka-6-seater-dining-set-in-lzqw4b.jpg",
+                        "third-image": "https://ii1.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sandy-brown-finish-by-casacraft-haruka-6-seater-dining-set-in-rcmwtp.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "Table : H 29.5 x W 70.8 x D 39.3; Chairs : H 33.6 x W 20.6 x D 21.4; Seating Height-18.11 (All dimension in inches)",
+                        "weight": "43 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":45,
+                "name": "Hachiro 4 Seater Dining Set in Walnut & Dark Brown Finish",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 39,999",
+                "type": "Dining",
+                "price":39999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/h/a/70x77/hachiro-4-seater-dining-set-in-walnut---dark-brown-finish-by-casacraft-hachiro-4-seater-dining-set-i-spfxig.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/h/a/70x77/hachiro-4-seater-dining-set-in-walnut---dark-brown-finish-by-casacraft-hachiro-4-seater-dining-set-i-k8k9lw.jpg",
+                        "second-image": "https://ii3.pepperfry.com/media/catalog/product/h/a/70x77/hachiro-4-seater-dining-set-in-walnut---dark-brown-finish-by-casacraft-hachiro-4-seater-dining-set-i-zwuddu.jpg",
+                        "third-image": "https://ii1.pepperfry.com/media/catalog/product/h/a/70x77/hachiro-4-seater-dining-set-in-walnut---dark-brown-finish-by-casacraft-hachiro-4-seater-dining-set-i-fpl9i4.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "Table : H 29.5 x W 43.3 x D 43.3; Chairs : H 31.5 x W 20.6 x D 22.4; Seating Height-18.1 (All dimension in inches)",
+                        "weight": "43 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":46,
+                "name": "Haruka 6 Seater Dining Set in Walnut & Sky Blue Finish",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 63,999",
+                "type": "Dining",
+                "price":63999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sky-blue-finish-by-casacraft-haruka-6-seater-dining-set-in-wa-9vbvhl.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sky-blue-finish-by-casacraft-haruka-6-seater-dining-set-in-wa-qafayk.jpg",
+                        "second-image": "https://ii3.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sky-blue-finish-by-casacraft-haruka-6-seater-dining-set-in-wa-0bhoxf.jpg",
+                        "third-image": "https://ii1.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sky-blue-finish-by-casacraft-haruka-6-seater-dining-set-in-wa-3zuowg.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "Table : H 29.5 x W 70.8 x D 39.3; Chairs : H 33.6 x W 20.6 x D 21.4; Seating Height-18.11 (All dimension in inches)",
+                        "weight": "43 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":47,
+                "name": "Haruka 6 Seater Dining Set in Walnut & Sandy Brown Finish",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 63,999",
+                "type": "Dining",
+                "price":63999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sandy-brown-finish-by-casacraft-haruka-6-seater-dining-set-in-u76neg.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sandy-brown-finish-by-casacraft-haruka-6-seater-dining-set-in-v0hqha.jpg",
+                        "second-image": "https://ii3.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sandy-brown-finish-by-casacraft-haruka-6-seater-dining-set-in-lzqw4b.jpg",
+                        "third-image": "https://ii1.pepperfry.com/media/catalog/product/h/a/70x77/haruka-6-seater-dining-set-in-walnut---sandy-brown-finish-by-casacraft-haruka-6-seater-dining-set-in-rcmwtp.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "Table : H 29.5 x W 70.8 x D 39.3; Chairs : H 33.6 x W 20.6 x D 21.4; Seating Height-18.11 (All dimension in inches)",
+                        "weight": "43 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            },
+            {
+                "id":48,
+                "name": "Hachiro 4 Seater Dining Set in Walnut & Dark Brown Finish",
+                "made": "CasaCraft by Pepperfry",
+                "rate": "₹ 39,999",
+                "type": "Dining",
+                "price":39999,
+                "img-address": "https://ii1.pepperfry.com/media/catalog/product/h/a/70x77/hachiro-4-seater-dining-set-in-walnut---dark-brown-finish-by-casacraft-hachiro-4-seater-dining-set-i-spfxig.jpg",
+                "other-image-address": [
+                    {
+                        "first-image": "https://ii2.pepperfry.com/media/catalog/product/h/a/70x77/hachiro-4-seater-dining-set-in-walnut---dark-brown-finish-by-casacraft-hachiro-4-seater-dining-set-i-k8k9lw.jpg",
+                        "second-image": "https://ii3.pepperfry.com/media/catalog/product/h/a/70x77/hachiro-4-seater-dining-set-in-walnut---dark-brown-finish-by-casacraft-hachiro-4-seater-dining-set-i-zwuddu.jpg",
+                        "third-image": "https://ii1.pepperfry.com/media/catalog/product/h/a/70x77/hachiro-4-seater-dining-set-in-walnut---dark-brown-finish-by-casacraft-hachiro-4-seater-dining-set-i-fpl9i4.jpg"
+                    }
+                ],
+                "other-details": [
+                    {
+                        "brand": "CasaCraft",
+                        "dimension": "Table : H 29.5 x W 43.3 x D 43.3; Chairs : H 31.5 x W 20.6 x D 22.4; Seating Height-18.1 (All dimension in inches)",
+                        "weight": "43 KG",
+                        "warranty": "36 Months' Warranty"
+                    }
+                ]
+            }
+
+        ]
+    
+}
